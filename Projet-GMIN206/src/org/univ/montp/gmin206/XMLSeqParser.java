@@ -14,6 +14,7 @@ import org.jdom2.Element;
 import org.jdom2.JDOMException;
 import org.jdom2.input.SAXBuilder;
 import org.univ.montp.gmin206.sequence.EnumSequenceType;
+import org.univ.montp.gmin206.sequence.Exon;
 import org.univ.montp.gmin206.sequence.GBCSeq;
 import org.univ.montp.gmin206.sequence.Organism;
 import org.univ.montp.gmin206.sequence.Sequence;
@@ -96,17 +97,22 @@ public class XMLSeqParser {
     private static Sequence parseGbcElement(Element x) {
         //Element y = x.getChild("INSDSeq").getChild("INSDSeq_feature-table");
       	Element featureTab = x.getChild("INSDSeq_feature-table");
+        GBCSeq tSeq = new GBCSeq();
+        ArrayList<Exon> exons = new ArrayList<>();
             List<Element> listDsr = featureTab.getChildren();
 		for (Element z : listDsr) { 
 			if (z.getChildText("INSDFeature_key").equals("exon")) {
 				Element interval = z.getChild("INSDFeature_intervals").getChild("INSDInterval");
 				Element from = interval.getChild("INSDInterval_from");
 				Element to = interval.getChild("INSDInterval_to");
+                                int start = Integer.parseInt(from.getText());
+                                int stop = Integer.parseInt(to.getText());
+                                int length = stop - start;
+                                exons.add(new Exon(start, stop, length, tSeq));
 			}	
 		}
-    		
+    	tSeq.setExons(exons);	
         Organism org = new Organism(x.getChildTextNormalize("INSDSeq_organism"), -1);
-        GBCSeq tSeq = new GBCSeq();
         tSeq.setSeqLength(Integer.parseInt(x.getChildText("INSDSeq_length")));
         tSeq.setSeqRaw(x.getChildText("INSDSeq_sequence"));
         tSeq.setAccessionNumber(x.getChildText("INSDSeq_primary-accession"));

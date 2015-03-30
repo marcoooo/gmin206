@@ -24,6 +24,7 @@ abstract public class Sequence {
     protected String seqRaw;
     
     protected Organism organism;
+    private ArrayList<Exon> exons = new ArrayList<>();
 
     public String getAccessionNumber() {
         return accessionNumber;
@@ -65,13 +66,14 @@ abstract public class Sequence {
         this.seqRaw = seqRaw;
     }
 
-    public String getExonPosition() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
     public ArrayList<Exon> getExons() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return this.exons;
     }
 
+    public void setExons(ArrayList<Exon> exons) {
+        this.exons = exons;
+    }
+
+    
 
 }

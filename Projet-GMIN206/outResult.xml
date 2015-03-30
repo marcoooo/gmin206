@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<output>
+  <Gene>Gene-Test</Gene>
+  <Alignement count="111" method="clustalw">Alignement not done</Alignement>
+  <Sequences>
+    <Sequence accNr="NM_012278" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 123" length="122">cattcggcagccagactccttgaaataccctttcagtaatcattcaaccaacgcttccatgtctctactctgtcgtaacaaaggctgtgggcagcactttgaccctaataccaaccttcctg</Exon>
+        <Exon position="124 - 173" length="49">ttcctgttgccatcaccctggggtcccaatcttccatgatgcacttaag</Exon>
+        <Exon position="174 - 230" length="56">gttggtcctgctgccgaaagcgaactgtagatttctctgagttcttaaacatcaag</Exon>
+        <Exon position="231 - 376" length="145">gctgtactatgggaccacactgtgctgagaagcttcctgaggcccctcaacctgaaggccctgctacaagcagttcacttcaggagcaaaaacctctgaatgtgattccaaagtcagcagagaccttgcgccgggagaggcccaa</Exon>
+        <Exon position="377 - 471" length="94">tcagagttgcctctgaagctgctgccgctaaatatatcccaagccctggaaatggcattggaacagaaggaattagaccaggaacctggggcag</Exon>
+        <Exon position="472 - 527" length="55">acttgacagtctgatccggactggttccagctgccagaacccaggatgtgatgct</Exon>
+        <Exon position="528 - 598" length="70">tttaccaaggccctgagagtgatgctactccatgtacctaccacccaggagcaccccgattccatgaggg</Exon>
+        <Exon position="599 - 698" length="99">atgaagtcttggagctgttgtggcatccagaccctggattttggggcattcttggcacaaccagggtgcagagtcggtagacatgactgggggaagcag</Exon>
+        <Exon position="699 - 812" length="113">tcccagcatcttgccgccatgattggcaccagacagattccttagtagtggtgactgtatatggccagattccacttcctgcgtttaactgggtgaaggccagtcaaactgag</Exon>
+        <Exon position="813 - 875" length="62">ttcatgtccacattgtctttgatggtaaccgtgtgttccaagcacagatgaagctctggggg</Exon>
+        <Exon position="876 - 1282" length="406">tcataaacgtggagcagagctctgtcttcttgatgccatctcgggttgaaatctccctggtcaaggctgacccaggatcctgggcccagctggagcaccctgatgcactagctaagaaggctagggcaggggttgtgttagagatggatgaggaagaatctgacgattcagatgatgatctgagctggacagaggaggaggaagaggaggaagcaatgggggaatagtgacaccagacagttgatgtctagataggacctcaatgattcccttagaatcttagataccaggatattgttggccatgtggcatcattgagcagcaggaggctgaaggaggggagaacaaaattgtccaaaccatgctgtttttttcccttaaataaatcttgtattcttcagtttca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001303277" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 123" length="122">cattcggcagccagactccttgaaataccctttcagtaatcattcaaccaacgcttccatgtctctactctgtcgtaacaaaggctgtgggcagcactttgaccctaataccaaccttcctg</Exon>
+        <Exon position="124 - 218" length="94">tcagagttgcctctgaagctgctgccgctaaatatatcccaagccctggaaatggcattggaacagaaggaattagaccaggaacctggggcag</Exon>
+        <Exon position="219 - 274" length="55">acttgacagtctgatccggactggttccagctgccagaacccaggatgtgatgct</Exon>
+        <Exon position="275 - 345" length="70">tttaccaaggccctgagagtgatgctactccatgtacctaccacccaggagcaccccgattccatgaggg</Exon>
+        <Exon position="346 - 445" length="99">atgaagtcttggagctgttgtggcatccagaccctggattttggggcattcttggcacaaccagggtgcagagtcggtagacatgactgggggaagcag</Exon>
+        <Exon position="446 - 559" length="113">tcccagcatcttgccgccatgattggcaccagacagattccttagtagtggtgactgtatatggccagattccacttcctgcgtttaactgggtgaaggccagtcaaactgag</Exon>
+        <Exon position="560 - 622" length="62">ttcatgtccacattgtctttgatggtaaccgtgtgttccaagcacagatgaagctctggggg</Exon>
+        <Exon position="623 - 1029" length="406">tcataaacgtggagcagagctctgtcttcttgatgccatctcgggttgaaatctccctggtcaaggctgacccaggatcctgggcccagctggagcaccctgatgcactagctaagaaggctagggcaggggttgtgttagagatggatgaggaagaatctgacgattcagatgatgatctgagctggacagaggaggaggaagaggaggaagcaatgggggaatagtgacaccagacagttgatgtctagataggacctcaatgattcccttagaatcttagataccaggatattgttggccatgtggcatcattgagcagcaggaggctgaaggaggggagaacaaaattgtccaaaccatgctgtttttttcccttaaataaatcttgtattcttcagtttca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="BC108901" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="NM_002213" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 375" length="374">ccgccgagcggagccagcccctcccctacccggagcagcccgctggggccgtcccgagcggcgacacactaggagtcccggccggccagccagggcagccgcggtcccgggactcggccgtgagtgctgcgggacggatggtggcggcggggcgcgggccagcgcgggcgccgtgagccggagctgcgcgcggggcatgcggctgcggcccccggccctcggcccccgcgctccggccccagccccggccgccggcccccgcggagtgcagcgaccgcgccgccgctgagggaggcgccccaccatgccgcgggccccggcgccgctgtacgcctgcctcctggggctctgcgcgctcctgccccggctcgcag</Exon>
+        <Exon position="376 - 461" length="85">tctcaacatatgcactagtggaagtgccacctcatgtgaagaatgtctgctaatccacccaaaatgtgcctggtgctccaaagag</Exon>
+        <Exon position="462 - 666" length="204">acttcggaagcccacggtccatcacctctcggtgtgatctgagggcaaaccttgtcaaaaatggctgtggaggtgagatagagagcccagccagcagcttccatgtcctgaggagcctgcccctcagcagcaagggttcgggctctgcaggctgggacgtcattcagatgacaccacaggagattgccgtgaacctccggcccg</Exon>
+        <Exon position="667 - 916" length="249">tgacaagaccaccttccagctacaggttcgccaggtggaggactatcctgtggacctgtactacctgatggacctctccctgtccatgaaggatgacttggacaatatccggagcctgggcaccaaactcgcggaggagatgaggaagctcaccagcaacttccggttgggatttgggtcttttgttgataaggacatctctcctttctcctacacggcaccgaggtaccagaccaatccgtgcattgg</Exon>
+        <Exon position="917 - 1085" length="168">tacaagttgtttccaaattgcgtcccctcctttgggttccgccatctgctgcctctcacagacagagtggacagcttcaatgaggaagttcggaaacagagggtgtcccggaaccgagatgcccctgaggggggctttgatgcagtactccaggcagccgtctgcaag</Exon>
+        <Exon position="1086 - 1247" length="161">agaagattggctggcgaaaggatgcactgcatttgctggtgttcacaacagatgatgtgccccacatcgcattggatggaaaattgggaggcctggtgcagccacacgatggccagtgccacctgaacgaggccaacgagtacactgcatccaaccagatg</Exon>
+        <Exon position="1248 - 1343" length="95">actatccatcccttgccttgcttggagagaaattggcagagaacaacatcaacctcatctttgcagtgacaaaaaaccattatatgctgtacaag</Exon>
+        <Exon position="1344 - 1433" length="89">attttacagccctgatacctggaacaacggtggagattttagatggagactccaaaaatattattcaactgattattaatgcatacaat</Exon>
+        <Exon position="1434 - 1568" length="134">gtatccggtctaaagtggagttgtcagtctgggatcagcctgaggatcttaatctcttctttactgctacctgccaagatggggtatcctatcctggtcagaggaagtgtgagggtctgaagattggggacacg</Exon>
+        <Exon position="1569 - 1998" length="429">catcttttgaagtatcattggaggcccgaagctgtcccagcagacacacggagcatgtgtttgccctgcggccggtgggattccgggacagcctggaggtgggggtcacctacaactgcacgtgcggctgcagcgtggggctggaacccaacagcgccaggtgcaacgggagcgggacctatgtctgcggcctgtgtgagtgcagccccggctacctgggcaccaggtgcgagtgccaggatggggagaaccagagcgtgtaccagaacctgtgccgggaggcagagggcaagccactgtgcagcgggcgtggggactgcagctgcaaccagtgctcctgcttcgagagcgagtttggcaagatctatgggcctttctgtgagtgcgacaacttctcctgtgccaggaacaagggagtcctctgctcag</Exon>
+        <Exon position="1999 - 2221" length="222">ccatggcgagtgtcactgcggggaatgcaagtgccatgcaggttacatcggggacaactgtaactgctcgacagacatcagcacatgccggggcagagatggccagatctgcagcgagcgtgggcactgtctctgtgggcagtgccaatgcacggagccgggggcctttggggagatgtgtgagaagtgccccacctgcccggatgcatgcagcaccaagag</Exon>
+        <Exon position="2222 - 2322" length="100">gattgcgtcgagtgcctgctgctccactctgggaaacctgacaaccagacctgccacagcctatgcagggatgaggtgatcacatgggtggacaccatcg</Exon>
+        <Exon position="2323 - 2442" length="119">gaaagatgaccaggaggctgtgctatgtttctacaaaaccgccaaggactgcgtcatgatgttcacctatgtggagctccccagtgggaagtccaacctgaccgtcctcagggagccag</Exon>
+        <Exon position="2443 - 2609" length="166">gtgtggaaacacccccaacgccatgaccatcctcctggctgtggtcggtagcatcctccttgttgggcttgcactcctggctatctggaagctgcttgtcaccatccacgaccggagggagtttgcaaagtttcagagcgagcgatccagggcccgctatgaaatg</Exon>
+        <Exon position="2610 - 4380" length="1770">cttcaaatccattatacagaaagcctatctccacgcacactgtggacttcaccttcaacaagttcaacaaatcctacaatggcactgtggactgatgtttccttctccgaggggctggagcggggatctgatgaaaaggtcagactgaaacgccttgcacggctgctcggcttgatcacagctccctaggtaggcaccacagagaagaccttctagtgagcctgggccaggagcccacagtgcctgtacaggaaggtgcctggccatgtcacctggctgctaggccagagccatgccaggctgcgtccctccgagcttgggataaagcaaggggaccttggcgctctcagctttccctgccacatccagcttgttgtcccaatgaaatactgagatgctgggctgtctctcccttccaggaatgctgggcccccagcctggccagacaagaagactgtcaggaagggtcggagtctgtaaaaccagcatacagtttggcttttttcacattgatcatttttatatgaaataaaaagatcctgcatttatggtgtagttctgagtcctgagacttttctgcgtgatggctatgccttgcacacaggtgttggtgatggggctgttgagatgcctgttgaaggtacatcgtttgcaaatgtcagtttcctctcctgtccgtgtttgtttagtacttttataatgaaaagaaacaagattgtttgggattggaagtaaagattaaaaccaaaagaatttgtgtttgtctgatactctctgtgtgtttctttctttctgagcggacttaaaatggtgcccccagtggggattgaagcggccgtgtacttcctcagggatgggacacaggctggtctgatactccagactgcagcttgtcaagtaagcatgaggtgctcggggcagtgagggctgtgcaagggggaacactgagcagatacctttggccccttccagcttttactgacagagagttccaggctagacaccataaaaaccaccccttgttctgaggggctgaggctggaaatagattgtacagacaagcaagggttgagtggtggttcccacacgaagtcatctcttaatcatcattagcaatagcagttcccttccaaggcctcccctcactcccgaaacacttacgtcccatgcaggcccaatgcaaaaaaacacatttgagcttttttcccgcagggccatgaagtccccttaagttcccatatctaagatggttgactgaccctctccccttatgtacagaagaggaaactgattctcagagaggggaagtggcttgcccgagtgtttgttaggaggttactgaatgacaaactgttcctaagaccccatctcatgctggccagagggccagcctcctcattcctgcttgctcttagaaaatctttcactgatcattttttgtcactggaataacttcaaggttattatgctttcattccaaatggatctgtcctcagctctggacccaattccccttacttcattttggcaaacactaagtcaaatagtgaaatgcctgtcactacatagaacctattacctggggcaaatacgaacagattgagtttccttcatcttgtgtaaatatgatgaaacagagacctggtaacttggtgacactgttaaaccctttttgggataaagccaaatgtaaatgaaaacattaaacagataaattgtggtgttgagacttttctgaattgagaaaaataaatgtaattttggaagaaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001303238" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 142" length="141">aggagctgagaggaacaggaagtgtcaggactttacgacccgcgcctccagctgaggtttctagacgtgacccagggcagactggtagcaaagcccccacgcccagccaggagcaccgccgaggactccagcacaccgagg</Exon>
+        <Exon position="143 - 203" length="60">acatgctgggcctgcgccccccactgctcgccctggtggggctgctctccctcgggtgcg</Exon>
+        <Exon position="204 - 335" length="131">gcggcccagagcacccactcaccagccggcctcgtccctcagtcctctctcaggagtgcacgaagttcaaggtcagcagctgccgggaatgcatcgagtcggggcccggctgcacctggtgccagaagctg</Exon>
+        <Exon position="336 - 516" length="180">acttcacagggccgggggatcctgactccattcgctgcgacacccggccacagctgctcatgaggggctgtgcggctgacgacatcatggaccccacaagcctcgctgaaacccaggaagaccacaatgggggccagaagcagctgtccccacaaaaagtgacgctttacctgcgaccag</Exon>
+        <Exon position="517 - 687" length="170">ccaggcagcagcgttcaacgtgaccttccggcgggccaagggctaccccatcgacctgtactatctgatggacctctcctactccatgcttgatgacctcaggaatgtcaagaagctaggtggcgacctgctccgggccctcaacgagatcaccgagtccggccgcattg</Exon>
+        <Exon position="688 - 929" length="241">cttcgggtccttcgtggacaagaccgtgctgccgttcgtgaacacgcaccctgataagctgcgaaacccatgccccaacaaggagaaagagtgccagcccccgtttgccttcaggcacgtgctgaagctgaccaacaactccaaccagtttcagaccgaggtcgggaagcagctgatttccggaaacctggatgcacccgagggtgggctggacgccatgatgcaggtcgccgcctgcccg</Exon>
+        <Exon position="930 - 1085" length="155">aggaaatcggctggcgcaacgtcacgcggctgctggtgtttgccactgatgacggcttccatttcgcgggcgacgggaagctgggcgccatcctgacccccaacgacggccgctgtcacctggaggacaacttgtacaagaggagcaacgaattc</Exon>
+        <Exon position="1086 - 1181" length="95">actacccatcggtgggccagctggcgcacaagctggctgaaaacaacatccagcccatcttcgcggtgaccagtaggatggtgaagacctacgag</Exon>
+        <Exon position="1182 - 1271" length="89">aactcaccgagatcatccccaagtcagccgtgggggagctgtctgaggactccagcaatgtggtccatctcattaagaatgcttacaat</Exon>
+        <Exon position="1272 - 1412" length="140">aactctcctccagggtcttcctggatcacaacgccctccccgacaccctgaaagtcacctacgactccttctgcagcaatggagtgacgcacaggaaccagcccagaggtgactgtgatggcgtgcagatcaatgtcccg</Exon>
+        <Exon position="1413 - 1600" length="187">tcaccttccaggtgaaggtcacggccacagagtgcatccaggagcagtcgtttgtcatccgggcgctgggcttcacggacatagtgaccgtgcaggttcttccccagtgtgagtgccggtgccgggaccagagcagagaccgcagcctctgccatggcaagggcttcttggagtgcggcatctgcag</Exon>
+        <Exon position="1601 - 1845" length="244">tgtgacactggctacattgggaaaaactgtgagtgccagacacagggccggagcagccaggagctggaaggaagctgccggaaggacaacaactccatcatctgctcagggctgggggactgtgtctgcgggcagtgcctgtgccacaccagcgacgtccccggcaagctgatatacgggcagtactgcgagtgtgacaccatcaactgtgagcgctacaacggccaggtctgcggcggcccgg</Exon>
+        <Exon position="1846 - 2065" length="219">gagggggctctgcttctgcgggaagtgccgctgccacccgggctttgagggctcagcgtgccagtgcgagaggaccactgagggctgcctgaacccgcggcgtgttgagtgtagtggtcgtggccggtgccgctgcaacgtatgcgagtgccattcaggctaccagctgcctctgtgccaggagtgccccggctgcccctcaccctgtggcaagtacat</Exon>
+        <Exon position="2066 - 2268" length="202">tcctgcgccgagtgcctgaagttcgaaaagggcccctttgggaagaactgcagcgcggcgtgtccgggcctgcagctgtcgaacaaccccgtgaagggcaggacctgcaaggagagggactcagagggctgctgggtggcctacacgctggagcagcaggacgggatggaccgctacctcatctatgtggatgagagccgag</Exon>
+        <Exon position="2269 - 2435" length="166">gtgtgtggcaggccccaacatcgccgccatcgtcgggggcaccgtggcaggcatcgtgctgatcggcattctcctgctggtcatctggaaggctctgatccacctgagcgacctccgggagtacaggcgctttgagaaggagaagctcaagtcccagtggaacaat</Exon>
+        <Exon position="2436 - 2913" length="477">ataatccccttttcaagagcgccaccacgacggtcatgaaccccaagtttgctgagagttaggagcacttggtgaagacaaggccgtcaggacccaccatgtctgccccatcacgcggccgagacatggcttgccacagctcttgaggatgtcaccaattaaccagaaatccagttattttccgccctcaaaatgacagccatggccggccgggtgcttctgggggctcgtcggggggacagctccactctgactggcacagtctttgcatggagacttgaggagggagggcttgaggttggtgaggttaggtgcgtgtttcctgtgcaagtcaggacatcagtctgattaaaggtggtgccaatttatttacatttaaacttgtcagggtataaaatgacatcccattaattatattgttaatcaatcacgtgtatagaaaaaaaataaaacttcaatacaggctgtccatggaaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001127491" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 220" length="219">caggcatccagggtgaggaaggctgcccacaggcatccagggtgaggaaggcagcccacacttttcttggagacacatccccaaagaagtcctcacgtggctccgtttgggcagaaaccatgaattgaacgggaaaagaaatatgtcaagtatcagaaagaagagtggcatgctttgacagcaagtggactccgagtccagggcagagcctcagttagg</Exon>
+        <Exon position="221 - 281" length="60">acatgctgggcctgcgccccccactgctcgccctggtggggctgctctccctcgggtgcg</Exon>
+        <Exon position="282 - 370" length="88">cctctctcaggagtgcacgaagttcaaggtcagcagctgccgggaatgcatcgagtcggggcccggctgcacctggtgccagaagctg</Exon>
+        <Exon position="371 - 551" length="180">acttcacagggccgggggatcctgactccattcgctgcgacacccggccacagctgctcatgaggggctgtgcggctgacgacatcatggaccccacaagcctcgctgaaacccaggaagaccacaatgggggccagaagcagctgtccccacaaaaagtgacgctttacctgcgaccag</Exon>
+        <Exon position="552 - 722" length="170">ccaggcagcagcgttcaacgtgaccttccggcgggccaagggctaccccatcgacctgtactatctgatggacctctcctactccatgcttgatgacctcaggaatgtcaagaagctaggtggcgacctgctccgggccctcaacgagatcaccgagtccggccgcattg</Exon>
+        <Exon position="723 - 964" length="241">cttcgggtccttcgtggacaagaccgtgctgccgttcgtgaacacgcaccctgataagctgcgaaacccatgccccaacaaggagaaagagtgccagcccccgtttgccttcaggcacgtgctgaagctgaccaacaactccaaccagtttcagaccgaggtcgggaagcagctgatttccggaaacctggatgcacccgagggtgggctggacgccatgatgcaggtcgccgcctgcccg</Exon>
+        <Exon position="965 - 1120" length="155">aggaaatcggctggcgcaacgtcacgcggctgctggtgtttgccactgatgacggcttccatttcgcgggcgacgggaagctgggcgccatcctgacccccaacgacggccgctgtcacctggaggacaacttgtacaagaggagcaacgaattc</Exon>
+        <Exon position="1121 - 1216" length="95">actacccatcggtgggccagctggcgcacaagctggctgaaaacaacatccagcccatcttcgcggtgaccagtaggatggtgaagacctacgag</Exon>
+        <Exon position="1217 - 1306" length="89">aactcaccgagatcatccccaagtcagccgtgggggagctgtctgaggactccagcaatgtggtccatctcattaagaatgcttacaat</Exon>
+        <Exon position="1307 - 1447" length="140">aactctcctccagggtcttcctggatcacaacgccctccccgacaccctgaaagtcacctacgactccttctgcagcaatggagtgacgcacaggaaccagcccagaggtgactgtgatggcgtgcagatcaatgtcccg</Exon>
+        <Exon position="1448 - 1635" length="187">tcaccttccaggtgaaggtcacggccacagagtgcatccaggagcagtcgtttgtcatccgggcgctgggcttcacggacatagtgaccgtgcaggttcttccccagtgtgagtgccggtgccgggaccagagcagagaccgcagcctctgccatggcaagggcttcttggagtgcggcatctgcag</Exon>
+        <Exon position="1636 - 1880" length="244">tgtgacactggctacattgggaaaaactgtgagtgccagacacagggccggagcagccaggagctggaaggaagctgccggaaggacaacaactccatcatctgctcagggctgggggactgtgtctgcgggcagtgcctgtgccacaccagcgacgtccccggcaagctgatatacgggcagtactgcgagtgtgacaccatcaactgtgagcgctacaacggccaggtctgcggcggcccgg</Exon>
+        <Exon position="1881 - 2100" length="219">gagggggctctgcttctgcgggaagtgccgctgccacccgggctttgagggctcagcgtgccagtgcgagaggaccactgagggctgcctgaacccgcggcgtgttgagtgtagtggtcgtggccggtgccgctgcaacgtatgcgagtgccattcaggctaccagctgcctctgtgccaggagtgccccggctgcccctcaccctgtggcaagtacat</Exon>
+        <Exon position="2101 - 2303" length="202">tcctgcgccgagtgcctgaagttcgaaaagggcccctttgggaagaactgcagcgcggcgtgtccgggcctgcagctgtcgaacaaccccgtgaagggcaggacctgcaaggagagggactcagagggctgctgggtggcctacacgctggagcagcaggacgggatggaccgctacctcatctatgtggatgagagccgag</Exon>
+        <Exon position="2304 - 2470" length="166">gtgtgtggcaggccccaacatcgccgccatcgtcgggggcaccgtggcaggcatcgtgctgatcggcattctcctgctggtcatctggaaggctctgatccacctgagcgacctccgggagtacaggcgctttgagaaggagaagctcaagtcccagtggaacaat</Exon>
+        <Exon position="2471 - 2948" length="477">ataatccccttttcaagagcgccaccacgacggtcatgaaccccaagtttgctgagagttaggagcacttggtgaagacaaggccgtcaggacccaccatgtctgccccatcacgcggccgagacatggcttgccacagctcttgaggatgtcaccaattaaccagaaatccagttattttccgccctcaaaatgacagccatggccggccgggtgcttctgggggctcgtcggggggacagctccactctgactggcacagtctttgcatggagacttgaggagggagggcttgaggttggtgaggttaggtgcgtgtttcctgtgcaagtcaggacatcagtctgattaaaggtggtgccaatttatttacatttaaacttgtcagggtataaaatgacatcccattaattatattgttaatcaatcacgtgtatagaaaaaaaataaaacttcaatacaggctgtccatggaaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_000211" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 230" length="229">ggccgctctctgacatcagagctgctgtagagcggagaggggcaggggtgaagggccacggtggtgcaacccaccacttcctccaaggaggagctgagaggaacaggaagtgtcaggactttacgacccgcgcctccagctgaggtttctagacgtgacccagggcagactggtagcaaagcccccacgcccagccaggagcaccgccgaggactccagcacaccgagg</Exon>
+        <Exon position="231 - 291" length="60">acatgctgggcctgcgccccccactgctcgccctggtggggctgctctccctcgggtgcg</Exon>
+        <Exon position="292 - 380" length="88">cctctctcaggagtgcacgaagttcaaggtcagcagctgccgggaatgcatcgagtcggggcccggctgcacctggtgccagaagctg</Exon>
+        <Exon position="381 - 561" length="180">acttcacagggccgggggatcctgactccattcgctgcgacacccggccacagctgctcatgaggggctgtgcggctgacgacatcatggaccccacaagcctcgctgaaacccaggaagaccacaatgggggccagaagcagctgtccccacaaaaagtgacgctttacctgcgaccag</Exon>
+        <Exon position="562 - 732" length="170">ccaggcagcagcgttcaacgtgaccttccggcgggccaagggctaccccatcgacctgtactatctgatggacctctcctactccatgcttgatgacctcaggaatgtcaagaagctaggtggcgacctgctccgggccctcaacgagatcaccgagtccggccgcattg</Exon>
+        <Exon position="733 - 974" length="241">cttcgggtccttcgtggacaagaccgtgctgccgttcgtgaacacgcaccctgataagctgcgaaacccatgccccaacaaggagaaagagtgccagcccccgtttgccttcaggcacgtgctgaagctgaccaacaactccaaccagtttcagaccgaggtcgggaagcagctgatttccggaaacctggatgcacccgagggtgggctggacgccatgatgcaggtcgccgcctgcccg</Exon>
+        <Exon position="975 - 1130" length="155">aggaaatcggctggcgcaacgtcacgcggctgctggtgtttgccactgatgacggcttccatttcgcgggcgacgggaagctgggcgccatcctgacccccaacgacggccgctgtcacctggaggacaacttgtacaagaggagcaacgaattc</Exon>
+        <Exon position="1131 - 1226" length="95">actacccatcggtgggccagctggcgcacaagctggctgaaaacaacatccagcccatcttcgcggtgaccagtaggatggtgaagacctacgag</Exon>
+        <Exon position="1227 - 1316" length="89">aactcaccgagatcatccccaagtcagccgtgggggagctgtctgaggactccagcaatgtggtccatctcattaagaatgcttacaat</Exon>
+        <Exon position="1317 - 1457" length="140">aactctcctccagggtcttcctggatcacaacgccctccccgacaccctgaaagtcacctacgactccttctgcagcaatggagtgacgcacaggaaccagcccagaggtgactgtgatggcgtgcagatcaatgtcccg</Exon>
+        <Exon position="1458 - 1645" length="187">tcaccttccaggtgaaggtcacggccacagagtgcatccaggagcagtcgtttgtcatccgggcgctgggcttcacggacatagtgaccgtgcaggttcttccccagtgtgagtgccggtgccgggaccagagcagagaccgcagcctctgccatggcaagggcttcttggagtgcggcatctgcag</Exon>
+        <Exon position="1646 - 1890" length="244">tgtgacactggctacattgggaaaaactgtgagtgccagacacagggccggagcagccaggagctggaaggaagctgccggaaggacaacaactccatcatctgctcagggctgggggactgtgtctgcgggcagtgcctgtgccacaccagcgacgtccccggcaagctgatatacgggcagtactgcgagtgtgacaccatcaactgtgagcgctacaacggccaggtctgcggcggcccgg</Exon>
+        <Exon position="1891 - 2110" length="219">gagggggctctgcttctgcgggaagtgccgctgccacccgggctttgagggctcagcgtgccagtgcgagaggaccactgagggctgcctgaacccgcggcgtgttgagtgtagtggtcgtggccggtgccgctgcaacgtatgcgagtgccattcaggctaccagctgcctctgtgccaggagtgccccggctgcccctcaccctgtggcaagtacat</Exon>
+        <Exon position="2111 - 2313" length="202">tcctgcgccgagtgcctgaagttcgaaaagggcccctttgggaagaactgcagcgcggcgtgtccgggcctgcagctgtcgaacaaccccgtgaagggcaggacctgcaaggagagggactcagagggctgctgggtggcctacacgctggagcagcaggacgggatggaccgctacctcatctatgtggatgagagccgag</Exon>
+        <Exon position="2314 - 2480" length="166">gtgtgtggcaggccccaacatcgccgccatcgtcgggggcaccgtggcaggcatcgtgctgatcggcattctcctgctggtcatctggaaggctctgatccacctgagcgacctccgggagtacaggcgctttgagaaggagaagctcaagtcccagtggaacaat</Exon>
+        <Exon position="2481 - 2958" length="477">ataatccccttttcaagagcgccaccacgacggtcatgaaccccaagtttgctgagagttaggagcacttggtgaagacaaggccgtcaggacccaccatgtctgccccatcacgcggccgagacatggcttgccacagctcttgaggatgtcaccaattaaccagaaatccagttattttccgccctcaaaatgacagccatggccggccgggtgcttctgggggctcgtcggggggacagctccactctgactggcacagtctttgcatggagacttgaggagggagggcttgaggttggtgaggttaggtgcgtgtttcctgtgcaagtcaggacatcagtctgattaaaggtggtgccaatttatttacatttaaacttgtcagggtataaaatgacatcccattaattatattgttaatcaatcacgtgtatagaaaaaaaataaaacttcaatacaggctgtccatggaaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_000889" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 106" length="105">aatcttccccaccctggggagtgtcacttcctcctctgccgtctcccagatcagtacacaaaggctgctgctgccgccagaggaaggactgctctgcacgcacct</Exon>
+        <Exon position="107 - 229" length="122">tgtggaaactaaagcccagagagaaagtctgacttgccccacagccagtgagtgactgcagcagcaccagaatctggtctgtttcctgtttggctcttctaccactacggcttgggatctcg</Exon>
+        <Exon position="230 - 433" length="203">gcatggtggctttgccaatggtccttgttttgctgctggtcctgagcagaggtgagagtgaattggacgccaagatcccatccacaggggatgccacagaatggcggaatcctcacctgtccatgctggggtcctgccagccagccccctcctgccagaagtgcatcctctcacaccccagctgtgcatggtgcaagcaactg</Exon>
+        <Exon position="434 - 635" length="201">acttcaccgcgtcgggagaggcggaggcgcggcgctgcgcccgacgagaggagctgctggctcgaggctgcccgctggaggagctggaggagccccgcggccagcaggaggtgctgcaggaccagccgctcagccagggcgcccgcggagagggtgccacccagctggcgccgcagcgggtccgggtcacgctgcggcctg</Exon>
+        <Exon position="636 - 806" length="170">ggagccccagcagctccaggtccgcttccttcgtgctgagggatacccggtggacctgtactaccttatggacctgagctactccatgaaggacgacctggaacgcgtgcgccagctcgggcacgctctgctggtccggctgcaggaagtcacccattctgtgcgcattg</Exon>
+        <Exon position="807 - 1048" length="241">ttttggttcctttgtggacaaaacggtgctgccctttgtgagcacagtaccctccaaactgcgccacccctgccccacccggctggagcgctgccagtcaccattcagctttcaccatgtgctgtccctgacgggggacgcacaagccttcgagcgggaggtggggcgccagagtgtgtccggcaatctggactcgcctgaaggtggcttcgatgccattctgcaggctgcactctgccag</Exon>
+        <Exon position="1049 - 1207" length="158">agcagattggctggagaaatgtgtcccggctgctggtgttcacttcagacgacacattccatacagctggggacgggaagttgggcggcattttcatgcccagtgatgggcactgccacttggacagcaatggcctctacagtcgcagcacagagttt</Exon>
+        <Exon position="1208 - 1303" length="95">actacccttctgtgggtcaggtagcccaggccctctctgcagcaaatatccagcccatctttgctgtcaccagtgccgcactgcctgtctaccag</Exon>
+        <Exon position="1304 - 1393" length="89">agctgagtaaactgattcctaagtctgcagttggggagctgagtgaggactccagcaacgtggtacagctcatcatggatgcttataat</Exon>
+        <Exon position="1394 - 1540" length="146">gcctgtcttccaccgtgacccttgaacactcttcactccctcctggggtccacatttcttacgaatcccagtgtgagggtcctgagaagagggagggtaaggctgaggatcgaggacagtgcaaccacgtccgaatcaaccagacg</Exon>
+        <Exon position="1541 - 1734" length="193">tgactttctgggtttctctccaagccacccactgcctcccagagccccatctcctgaggctccgggcccttggcttctcagaggagctgattgtggagttgcacacgctgtgtgactgtaattgcagtgacacccagccccaggctccccactgcagtgatggccagggacacctacaatgtggtgtatgcag</Exon>
+        <Exon position="1735 - 1958" length="223">tgtgcccctggccgcctaggtcggctctgtgagtgctctgtggcagagctgtcctccccagacctggaatctgggtgccgggctcccaatggcacagggcccctgtgcagtggaaagggtcactgtcaatgtggacgctgcagctgcagtggacagagctctgggcatctgtgcgagtgtgacgatgccagctgtgagcgacatgagggcatcctctgcggag</Exon>
+        <Exon position="1959 - 2178" length="219">ctttggtcgctgccaatgtggagtatgtcactgtcatgccaaccgcacgggcagagcatgcgaatgcagtggggacatggacagttgcatcagtcccgagggagggctctgcagtgggcatggacgctgcaaatgcaaccgctgccagtgcttggacggctactatggtgctctatgcgaccaatgcccaggctgcaagacaccatgcgagagacaccg</Exon>
+        <Exon position="2179 - 2387" length="208">gactgtgcagagtgtggggccttcaggactggcccactggccaccaactgcagtacagcttgtgcccataccaatgtgaccctggccttggcccctatcttggatgatggctggtgcaaagagcggaccctggacaaccagctgttcttcttcttggtggaggatgacgccagaggcacggtcgtgctcagagtgagaccccaagaaa</Exon>
+        <Exon position="2388 - 2548" length="160">gggagcagaccacacgcaggccattgtgctgggctgcgtagggggcatcgtggcagtggggctggggctggtcctggcttaccggctctcggtggaaatctatgaccgccgggaatacagtcgctttgagaaggagcagcaacaactcaactggaagcag</Exon>
+        <Exon position="2549 - 2867" length="318">acagtaatcctctctacaaaagtgccatcacgaccaccatcaatcctcgctttcaagaggcagacagtcccactctctgaaggagggagggacacttacccaaggctcttctccttggaggacagtgggaactggagggtgagaggaagggtgggtctgtaagaccttggtaggggactaattcactggcgaggtgcggccaccaccctacttcattttcagagtgacacccaagagggctgcttcccatgcctgcaaccttgcatccatctgggctaccccacccaagtatacaataaagtcttacctcagaccaca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001282390" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 311" length="310">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagtgtaagtagtatttaaaatgttatacttcaagaaagaaagactttaacgatattcagcgttggtcttgtaacgctgaaggtaattcattttttaatcggtctgcacagcaagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="312 - 343" length="31">attttactcatccatctggagttggcgaaag</Exon>
+        <Exon position="344 - 590" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="591 - 756" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="757 - 918" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="919 - 1014" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="1015 - 1104" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1105 - 1239" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1240 - 1657" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1658 - 1880" length="222">taacggcgactgtgactgtggtgaatgtgtgtgcaggagcggctggactggcgagtactgcaactgcaccaccagcacggactcctgcgtctctgaagatggagtgctctgcagcgggcgcggggactgtgtttgtggcaagtgtgtttgcacaaaccctggagcctcaggaccaacctgtgaacgatgtcctacctgtggtgacccctgtaactctaaacg</Exon>
+        <Exon position="1881 - 1978" length="97">agctgcattgagtgccacctgtcagcagctggccaagcccgagaagaatgtgtggacaagtgcaaactagctggtgcgaccatcagtgaagaagaag</Exon>
+        <Exon position="1979 - 2098" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2099 - 2265" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2266 - 4434" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001282389" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 311" length="310">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagtgtaagtagtatttaaaatgttatacttcaagaaagaaagactttaacgatattcagcgttggtcttgtaacgctgaaggtaattcattttttaatcggtctgcacagcaagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="312 - 391" length="79">tggctgtgccctgggaggtgcagaaacctgtgaagactgcctgcttattggacctcagtgtgcctggtgtgctcaggag</Exon>
+        <Exon position="392 - 423" length="31">attttactcatccatctggagttggcgaaag</Exon>
+        <Exon position="424 - 670" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="671 - 836" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="837 - 998" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="999 - 1094" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="1095 - 1184" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1185 - 1319" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1320 - 1737" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1738 - 1960" length="222">taacggcgactgtgactgtggtgaatgtgtgtgcaggagcggctggactggcgagtactgcaactgcaccaccagcacggactcctgcgtctctgaagatggagtgctctgcagcgggcgcggggactgtgtttgtggcaagtgtgtttgcacaaaccctggagcctcaggaccaacctgtgaacgatgtcctacctgtggtgacccctgtaactctaaacg</Exon>
+        <Exon position="1961 - 2058" length="97">agctgcattgagtgccacctgtcagcagctggccaagcccgagaagaatgtgtggacaagtgcaaactagctggtgcgaccatcagtgaagaagaag</Exon>
+        <Exon position="2059 - 2178" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2179 - 2345" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2346 - 4514" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001282388" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 311" length="310">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagtgtaagtagtatttaaaatgttatacttcaagaaagaaagactttaacgatattcagcgttggtcttgtaacgctgaaggtaattcattttttaatcggtctgcacagcaagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="312 - 516" length="204">attttactcatccatctggagttggcgaaaggtgtgataccccagcaaaccttttagctaaaggatgtcaattaaacttcatcgaaaaccctgtctcccaagtagaaatacttaaaaataagcctctcagtgtaggcagacagaaaaatagttctgacattgttcagattgcgcctcaaagcttgatccttaagttgagaccag</Exon>
+        <Exon position="517 - 763" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="764 - 929" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="930 - 1091" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="1092 - 1187" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="1188 - 1277" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1278 - 1412" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1413 - 1830" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1831 - 2053" length="222">taacggcgactgtgactgtggtgaatgtgtgtgcaggagcggctggactggcgagtactgcaactgcaccaccagcacggactcctgcgtctctgaagatggagtgctctgcagcgggcgcggggactgtgtttgtggcaagtgtgtttgcacaaaccctggagcctcaggaccaacctgtgaacgatgtcctacctgtggtgacccctgtaactctaaacg</Exon>
+        <Exon position="2054 - 2151" length="97">agctgcattgagtgccacctgtcagcagctggccaagcccgagaagaatgtgtggacaagtgcaaactagctggtgcgaccatcagtgaagaagaag</Exon>
+        <Exon position="2152 - 2271" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2272 - 2438" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2439 - 4607" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001282355" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 311" length="310">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagtgtaagtagtatttaaaatgttatacttcaagaaagaaagactttaacgatattcagcgttggtcttgtaacgctgaaggtaattcattttttaatcggtctgcacagcaagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="312 - 391" length="79">tggctgtgccctgggaggtgcagaaacctgtgaagactgcctgcttattggacctcagtgtgcctggtgtgctcaggag</Exon>
+        <Exon position="392 - 596" length="204">attttactcatccatctggagttggcgaaaggtgtgataccccagcaaaccttttagctaaaggatgtcaattaaacttcatcgaaaaccctgtctcccaagtagaaatacttaaaaataagcctctcagtgtaggcagacagaaaaatagttctgacattgttcagattgcgcctcaaagcttgatccttaagttgagaccag</Exon>
+        <Exon position="597 - 843" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="844 - 1009" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="1010 - 1171" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="1172 - 1267" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="1268 - 1357" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1358 - 1492" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1493 - 1910" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1911 - 2030" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2031 - 2197" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2198 - 4366" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001282354" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 311" length="310">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagtgtaagtagtatttaaaatgttatacttcaagaaagaaagactttaacgatattcagcgttggtcttgtaacgctgaaggtaattcattttttaatcggtctgcacagcaagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="312 - 558" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="559 - 724" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="725 - 886" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="887 - 982" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="983 - 1072" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1073 - 1207" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1208 - 1625" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1626 - 1848" length="222">taacggcgactgtgactgtggtgaatgtgtgtgcaggagcggctggactggcgagtactgcaactgcaccaccagcacggactcctgcgtctctgaagatggagtgctctgcagcgggcgcggggactgtgtttgtggcaagtgtgtttgcacaaaccctggagcctcaggaccaacctgtgaacgatgtcctacctgtggtgacccctgtaactctaaacg</Exon>
+        <Exon position="1849 - 1946" length="97">agctgcattgagtgccacctgtcagcagctggccaagcccgagaagaatgtgtggacaagtgcaaactagctggtgcgaccatcagtgaagaagaag</Exon>
+        <Exon position="1947 - 2066" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2067 - 2233" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2234 - 4402" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_000888" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 311" length="310">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagtgtaagtagtatttaaaatgttatacttcaagaaagaaagactttaacgatattcagcgttggtcttgtaacgctgaaggtaattcattttttaatcggtctgcacagcaagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="312 - 391" length="79">tggctgtgccctgggaggtgcagaaacctgtgaagactgcctgcttattggacctcagtgtgcctggtgtgctcaggag</Exon>
+        <Exon position="392 - 596" length="204">attttactcatccatctggagttggcgaaaggtgtgataccccagcaaaccttttagctaaaggatgtcaattaaacttcatcgaaaaccctgtctcccaagtagaaatacttaaaaataagcctctcagtgtaggcagacagaaaaatagttctgacattgttcagattgcgcctcaaagcttgatccttaagttgagaccag</Exon>
+        <Exon position="597 - 843" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="844 - 1009" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="1010 - 1171" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="1172 - 1267" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="1268 - 1357" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1358 - 1492" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1493 - 1910" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1911 - 2133" length="222">taacggcgactgtgactgtggtgaatgtgtgtgcaggagcggctggactggcgagtactgcaactgcaccaccagcacggactcctgcgtctctgaagatggagtgctctgcagcgggcgcggggactgtgtttgtggcaagtgtgtttgcacaaaccctggagcctcaggaccaacctgtgaacgatgtcctacctgtggtgacccctgtaactctaaacg</Exon>
+        <Exon position="2134 - 2231" length="97">agctgcattgagtgccacctgtcagcagctggccaagcccgagaagaatgtgtggacaagtgcaaactagctggtgcgaccatcagtgaagaagaag</Exon>
+        <Exon position="2232 - 2351" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2352 - 2518" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2519 - 4687" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001282353" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 128" length="127">agtaaatcatgttgaagttgcttttaaacacagcttttctgctttacctgtccaggtagcctctgttttcatttcagtcttaatgaaaactttctaacttatatctcaagtttcttttcaaagcagt</Exon>
+        <Exon position="129 - 204" length="75">aagaactgaaacgaatggggattgaactgctttgcctgttctttctatttctaggaaggaatgatcacgtacaag</Exon>
+        <Exon position="205 - 284" length="79">tggctgtgccctgggaggtgcagaaacctgtgaagactgcctgcttattggacctcagtgtgcctggtgtgctcaggag</Exon>
+        <Exon position="285 - 489" length="204">attttactcatccatctggagttggcgaaaggtgtgataccccagcaaaccttttagctaaaggatgtcaattaaacttcatcgaaaaccctgtctcccaagtagaaatacttaaaaataagcctctcagtgtaggcagacagaaaaatagttctgacattgttcagattgcgcctcaaagcttgatccttaagttgagaccag</Exon>
+        <Exon position="490 - 736" length="246">tggtgcgcagactctgcaggtgcatgtccgccagactgaggactacccggtggatttgtattacctcatggacctctccgcctccatggatgacgacctcaacacaataaaggagctgggctcccggctttccaaagagatgtctaaattaaccagcaactttagactgggcttcggatcttttgtggaaaaacctgtatccccttttgtgaaaacaacaccagaagaaattgccaacccttgcag</Exon>
+        <Exon position="737 - 902" length="165">agtattccatacttctgtttacctacatttggattcaagcacattttgccattgacaaatgatgctgaaagattcaatgaaattgtgaagaatcagaaaatttctgctaatattgacacacccgaaggtggatttgatgcaattatgcaagctgctgtgtgtaag</Exon>
+        <Exon position="903 - 1064" length="161">aaaaaattggctggcggaatgactccctccacctcctggtctttgtgagtgatgctgattctcattttggaatggacagcaaactagcaggcatcgtcattcctaatgacgggctctgtcacttggacagcaagaatgaatactccatgtcaactgtcttg</Exon>
+        <Exon position="1065 - 1160" length="95">aatatccaacaattggacaactcattgataaactggtacaaaacaacgtgttattgatcttcgctgtaacccaagaacaagttcatttatatgag</Exon>
+        <Exon position="1161 - 1250" length="89">attacgcaaaacttattcctggagctacagtaggtctacttcagaaggactccggaaacattctccagctgatcatctcagcttatgaa</Exon>
+        <Exon position="1251 - 1385" length="134">aactgcggtctgaggtggaactggaagtattaggagacactgaaggactcaacttgtcatttacagccatctgtaacaacggtaccctcttccaacaccaaaagaaatgctctcacatgaaagtgggagacaca</Exon>
+        <Exon position="1386 - 1803" length="417">cttccttcagcgtgactgtgaatatcccacactgcgagagaagaagcaggcacattatcataaagcctgtggggctgggggatgccctggaattacttgtcagcccagaatgcaactgcgactgtcagaaagaagtggaagtgaacagctccaaatgtcaccacgggaacggctctttccagtgtggggtgtgtgcctgccaccctggccacatggggcctcgctgtgagtgtggcgaggacatgctgagcacagattcctgcaaggaggccccagatcatccctcctgcagcggaaggggtgactgctactgtgggcagtgtatctgccacttgtctccctatggaaacatttatgggccttattgccagtgtgacaatttctcctgcgtgagacacaaagggctgctctgcggag</Exon>
+        <Exon position="1804 - 2026" length="222">taacggcgactgtgactgtggtgaatgtgtgtgcaggagcggctggactggcgagtactgcaactgcaccaccagcacggactcctgcgtctctgaagatggagtgctctgcagcgggcgcggggactgtgtttgtggcaagtgtgtttgcacaaaccctggagcctcaggaccaacctgtgaacgatgtcctacctgtggtgacccctgtaactctaaacg</Exon>
+        <Exon position="2027 - 2124" length="97">agctgcattgagtgccacctgtcagcagctggccaagcccgagaagaatgtgtggacaagtgcaaactagctggtgcgaccatcagtgaagaagaag</Exon>
+        <Exon position="2125 - 2244" length="119">tttctcaaaggatggttctgtttcctgctctctgcaaggagaaaatgaatgtcttattacattcctaataactacagataatgaggggaaaaccatcattcacagcatcaatgaaaaag</Exon>
+        <Exon position="2245 - 2411" length="166">ttgtccgaagcctccaaacattcccatgatcatgttaggggtttccctggctattcttctcatcggggttgtcctactgtgcatctggaagctactggtgtcatttcatgatcgtaaagaagttgccaaatttgaagcagaacgatcaaaagccaagtggcaaacg</Exon>
+        <Exon position="2412 - 4580" length="2168">gaaccaatccactctacagaggatccacaagtacttttaaaaatgtaacttataaacacagggaaaaacaaaaggtagacctttccacagattgctagaactactttatgcatgaaaaaagtctgtttcactgatatgaaatgttaatgcactatttaatttttttctctttgttgcttcaaaatgaggttggtttaagataataataggacatctgcagataagtcatcctctacatgaaggtgacagactgttggcagtttcaaaataatcaagaagagaaatatccttagcaaagagatgactttggggatcatttgaggaatactaactctgttgcattaatgcttcaaaaaatcatcaaatgattcatgggggcctgatttgcatttgaaaaatgtttgaaattagagtctcatttgtttcaggaatgcagctacctgagttttttgtctcggcaaagtcacaaagcccatatactcacattgtgtgtctatacttgccaattaattctaaacttgtaggaaatatgccctctcttaaaggagaattttttttaaatctctgagaaatgagattctgagtttatttcagctaaaaggttgcaattcttctgaagatatctcaaatataaggttgaaagttaagtgttaataatttttgtgaatttatacacacctaaacgttaagtacacaaatattttatttgttttacaaataaggaataagtaatttataaattaagaagttacctataaaaataaaaagataacaaccctatcatatagcttatttttaaattacctgaaaaacgatattctacactgtttcctttttgactctgagttttcaaactgttacttctcccatatttctcaatccatttcactcagttgcacagtcttttaaaccctgtaattgtcataccaaagtttctttttaaaaaaaaattactttaaatgcttagtttattcaaagagcgatccaataatataaaaggaacatgtgttaaacacaataaaattttaaatggctctaaatcaagcacatcaagagtatacaagtcttaaaggctttttaatacatactcttttcccatctatgtaacccaacttgcacatttcagctgcatgtggtgaatatgcatcatatatttactttaagaggtaagattttacttgcaaaatacatgtgcaaattagggatccatcagttgatggaagagatggactctagaatattatttcttgtggttattactcctttacaaagcactttcgtctcacttgatcctcataaggaaactaaggctcagaatgagtagagctgggttcagaatctagctcttctaactccaagccatctcctctttccactgcaggaaactgcctcttttgtcagtgaaataatagaaagattgtgttagttaagtgataactgtcatttgtttgaaaatgttcgagactgaacaaatagcatttaaactgctggcatatagatgagatattgtacttttgtgcaatgtttattacctttgattaaattgtaatgtgaagcttttactaggtgaatagttcattatgtagtggaggcttcgtggttgtccattgaattgtcacagcaaaatctataagtttcttcaattctacaagatagatccatatacctttgatcacttggagactctttttttgctggtttctagataactcaggtaaatcagacctttacagagtacagggctaggtgaaagaattactgaaaaatcaccttgaaaatccgaagggctgatataccctttatgttcctgactgatgcgcagaacctgggggaaatctacagcaatatacaggttgcaatgctgataacacaacagcaatcctctcctctacgtggacttactgttgtttttttaattattattggaatgggattttagaaaatagaagttacctttgtgtgtgttttagggaaggtagagaagaatctgctctttctctgaatactgttttgaccccaggcaggaccttggaaaggccaaaacattaacagtagtacttctgttcactgaagagttatgttacatgaagataaaatggttttgtcgtgtttattattgtattttgtgttgatataaataaacatggtaatttaaacaatgaacctta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001271754" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 339" length="338">ctctccactgaggggtttggcaccagcaccccgcccagagcagtgccgctgcccaaatcctcgcaggcagctcatcaacgcaattgcaactccggctggagccccggacctgcaagcctgggtgtccgtgggtccgtctgcccagccatctgctggtggcacctctccctcctgccgcctccctcggtgaaccccaccttgcagaagtgcagctcgcccggagcagcccaggagctcagcatgcgtcccccaggcttcaggaacttcttgctgctggcgtcctcccttctctttgctgggttgtcagctgttcctcaaagcttctcgccatctctgag</Exon>
+        <Exon position="340 - 486" length="146">ccatggtaagtgtgactgtggcaagtgcaagtgtgaccagggatggtatggggatgcttgccagtacccaactaactgtgacttgacaaagaagaaaagtaaccaaatgtgcaagaattcacaagacatcatctgctctaatgcag</Exon>
+        <Exon position="487 - 609" length="122">tacatgtcactgtggcaggtgtaagtgtgataattcagatggaagtggacttgtgtatggtaaattttgtgagtgtgacgatagagaatgcatagacgatgaaacagaagaaatatgtggag</Exon>
+        <Exon position="610 - 750" length="140">ccatgggaagtgttactgtggaaactgctactgcaaggctggttggcatggagataaatgtgaattccagtgcgatatcaccccctgggaaagcaagcgaagatgcacgtctccagatggcaaaatctgcagtaacagag</Exon>
+        <Exon position="751 - 891" length="140">gacttgtgtatgtggtgaatgtacctgtcacgatgttgatccgactggggactggggagatattcatggggacacctgtgaatgtgatgagagggactgtagagctgtctatgaccgatattctgatgacttctgttcag</Exon>
+        <Exon position="892 - 1038" length="146">tcatggacagtgtaattgcggaagatgtgactgcaaagcaggctggtatgggaagaagtgtgagcacccacagtcctgcacgctgtcagctgaggagagcatcaggaagtgccagggaagctcggatctgccttgctctgggaggg</Exon>
+        <Exon position="1039 - 1155" length="116">taaatgtgaatgtggcaaatgcacctgctatcctccaggagatcgccgggtgtatggcaagacttgtgagtgtgatgatcgccgctgtgaagacctcgatggtgtggtctgtggag</Exon>
+        <Exon position="1156 - 1302" length="146">ccacggcacatgttcctgtggtcgctgtgtttgtgagagaggatggtttggaaagctctgccaacatccgcggaagtgtaacatgacggaagaacaaagcaagaatctgtgtgaatcagcagatggcatattgtgctcggggaagg</Exon>
+        <Exon position="1303 - 1416" length="113">ttcttgtcattgtgggaagtgcatttgttctgctgaagagtggtatatttctggggagttctgtgactgtgatgacagagactgcgacaaacatgatggtctcatttgtacag</Exon>
+        <Exon position="1417 - 1524" length="107">gaatggaatatgtagctgtggaaactgtgaatgctgggatggatggaatggaaatgcatgtgaaatctggcttggctcagaatatccttaacaattacatgagagag</Exon>
+        <Exon position="1525 - 4883" length="3358">aattttgatgacgtattcgctgatgcacagacattggaattcattacattatctagccatcgtaatacaaatgacctttggatttctctatcacggcgcttatcctcctattaaggatcagaaagttaaactttacggaccacgtacgtccctgtctcatattcttctttgttggtttctgtttaatactttaaagctgtaaaaaaaatttaaaaaattccttctgagctcccaggccatacaaaagcaacttaagggtggatttggctggcagctgggcagtactttgtcagcctcagctccactggaactgcccttgattctctatagctcatcacaaaacctcaggtatgtcttatttttcttataatcctctgtatgttattatcctttttattaacaacaacaactacaacaaaagtgctgctctttttcatagtctcatgtaagaagagtgtcaaaaatgtcctcggcatttgttttctcagaaaaagaatttagatattggagaaattatcataccataaaaagttcaaaatgtgattcatctaaaattttggacaaagatgaaaatatagtcagctctgttctagtgttcatttagttagaaaccatagtaccggaactgtattatagtagaagttaatggtacctaaactctaaggaatgctttttctttgaaaacagaaatatttttacttatttctgtccactatgtttgtgtgtatgtgtgtgtttgtgtgtgtatgtgtggttttgatgccagcaatgcaaacaccaatatatctattaagaagtgattgaatttagattggaaaaaataaaatagttacatgtaaagacataaactctttccttcttaaatgtgattttcaactctatgatagaaactccctctaaaaaacaagcagggcaagaacaaacttacttgtaatgggtgagagaaaataagcaaatctcattggctcattcctgtttttaggaagttgcagtgggattaatgtcaattggaagggatgcagcaagtttagagaaggtgttggcactaacgctgcttgtttggcaaatcatcatcactgaggtattccacccagagactttttcaaaaaagtcaactaaagtgctaagtcataagaggagagccattatacccgttgtctttctgggctccttgagtttatctggattccaacagcacttggaaagtaccgccctccactacctcaaatgcaaacacaatctctgccagtagacattggaattagacttagtgaaaaccaggaaaaaaaaaaaaaactaaaatataactcagccttagtttgcagactcaactgtcaacactttgaaaccctactccatattcaagagagtcaacaggccctatgtcacattgtaggctaagaaacctcagctatgactactatttcactcaaagtaagaccatgtacatcctggattttgatatgcctgcattttggaaaaaaaaattgaggatttagcccagtcgctttcccttgatatagccttgttctgaattaaaatggaaaaaatatttcaattattttcatcttgttctcaactggatgttagtcaatgtggtctctttttgaatatgtatcaaatattaatgatccataatattagggagataattttaaatgaagtgatacgtgtctaacttacttaaagaataagtttttggtttttgcttttaaagacaaccaaatctgatattgttcatcctgataaaaataacaacttttagtgcttaaagcattaattaagcaagtggctaggtatgataaagaacttctgcttgctccccaagaggcaaactattagaagaactggagcgggagtcctttggacccatcgtggatctctttaagccactgctacccaaaaacattcaggacaagcaaacatttagagcaagaatctccaaattcttcaggatttgtaatgaaatgatgttcagttccattttgctctttacatagggtggagaattgtcatgtcttctctaatttttccaagtaaagtggtagcaaaatgttttaaaaagcaatcttatattagaaaacaaaaatgttgtcacttgaaataccaaaacaacatttctgagcgttgttgagggactggcaaagcaatcagctactataacaaatcagtagaaataaccctcccacaccagatatgcatgcagaaggaatggagtattatagagacttgatacaatggacatatgcacatggaggtacaaaacacacagtctaaatacaaatgaattccatcagatttactatacggaacatcagtagtgacagattgcacttcttacttaataacagcaaacttaatttctgaggggaaaaaaatggcgaagtcttatcccaaacaaatagcaagagaggtatcatcaaagagctaaaattttctttggcatggtaaagggggaaattgagtttaccaacttatttacatgacatttctctatattggtgagtaatgcaatgccattttgttacataaagttgtttgatgttttttaatatgccttcatataaatattttattcaatatgttgtatttgtgaatttaacaaatgatattaaacacaaactacaatgcagacagacaaactctttgtatgcaaattagcaatacataccaacagttcttgatacacaggtacctactacatgcagctcatcattgctgtcctcttcccatgctacaggtgagaccagacacaaagtaaatgacctaactcaattacaaataacaaggacccctctgcaatatgtctaaacatatattagaagaaagtatttgacatccttcatagggataaatgcccttatagacaccccatatataaaacacaacagagatacacatttacataaatctcagtcatttacaaaaataaatcttgtcttaatttaaaccaataaacagacttgcaggggaaaaagaaaccagcaagtagggctaattatcagtaacaaatagatgggggtgtttgctctgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtatatgtgtgtgtttgtgtgaagtgaagtgttgctgctgtaagtagtgtccataagcccatttgactgtattacaagttagttaattactcatatagttggccacatattatgggatctatgttttctgaaaataattggttaatggaagttatctaatatattttaactgttcctgttaaaaacaataggcttcaagatgacataacaccaaatcaaaaatgaccaaaggaatcattttgtttgttagatttgtaatttagcatcattggcaataaatctactcaaacgttc</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001271756" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 49" length="48">aactttgtctcatgaacttagttgcagtgatgggagcatttaataaag</Exon>
+        <Exon position="50 - 196" length="146">ccatggtaagtgtgactgtggcaagtgcaagtgtgaccagggatggtatggggatgcttgccagtacccaactaactgtgacttgacaaagaagaaaagtaaccaaatgtgcaagaattcacaagacatcatctgctctaatgcag</Exon>
+        <Exon position="197 - 319" length="122">tacatgtcactgtggcaggtgtaagtgtgataattcagatggaagtggacttgtgtatggtaaattttgtgagtgtgacgatagagaatgcatagacgatgaaacagaagaaatatgtggag</Exon>
+        <Exon position="320 - 460" length="140">ccatgggaagtgttactgtggaaactgctactgcaaggctggttggcatggagataaatgtgaattccagtgcgatatcaccccctgggaaagcaagcgaagatgcacgtctccagatggcaaaatctgcagtaacagag</Exon>
+        <Exon position="461 - 601" length="140">gacttgtgtatgtggtgaatgtacctgtcacgatgttgatccgactggggactggggagatattcatggggacacctgtgaatgtgatgagagggactgtagagctgtctatgaccgatattctgatgacttctgttcag</Exon>
+        <Exon position="602 - 748" length="146">tcatggacagtgtaattgcggaagatgtgactgcaaagcaggctggtatgggaagaagtgtgagcacccacagtcctgcacgctgtcagctgaggagagcatcaggaagtgccagggaagctcggatctgccttgctctgggaggg</Exon>
+        <Exon position="749 - 865" length="116">taaatgtgaatgtggcaaatgcacctgctatcctccaggagatcgccgggtgtatggcaagacttgtgagtgtgatgatcgccgctgtgaagacctcgatggtgtggtctgtggag</Exon>
+        <Exon position="866 - 1012" length="146">ccacggcacatgttcctgtggtcgctgtgtttgtgagagaggatggtttggaaagctctgccaacatccgcggaagtgtaacatgacggaagaacaaagcaagaatctgtgtgaatcagcagatggcatattgtgctcggggaagg</Exon>
+        <Exon position="1013 - 1126" length="113">ttcttgtcattgtgggaagtgcatttgttctgctgaagagtggtatatttctggggagttctgtgactgtgatgacagagactgcgacaaacatgatggtctcatttgtacag</Exon>
+        <Exon position="1127 - 2010" length="883">gaatggaatatgtagctgtggaaactgtgaatgctgggatggatggaatggaaatgcatgtgaaatctggcttggctcagaatatccttaacaattacatgagagaggtctggattcttattttttctgggccattagaacatataaatgcgaaggaaaccatgtatattcaccactaggacaggttaaaaagaccattgtatgtttttctatttctgaattacgaatgaaatccgagtacctattagaaatgagttatgcaaatttagatgcaaataacattagaaaaaaaagattcttccataattaacataagtggttcctaacgagagcaatttttccacccaaaagtcatttggcaacatctacagacaattttgattgtcacactgggtcgggtaggaaggtatgctgcagacatttggtgggtagaggccagggatgctgctgagcatcccgcagtgtacaggacagcccccaaacaaggaattatccagccccaaatgccaatagggctcaaactgagaaacattgagttatatggctattagaaatccacattcttacacaagaaagaccatattagaatctaaggaaaacatgcatattcacattaattaatcgatcagatttttccagaattccgtatcagtcaccattttaatatggggacaatgaagacaagcacacaggaggtagaatatcagagtggggctggatcaagggcaaaaactggtcattaagtcatctgacattaaatcatttagccactaagttatttgtctactctcactttaaactcaccaaagaagattctcttaaagaaattatgaaaaatgtacaatttaacattttaaataaatagtgacagaagttgtttata</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001271755" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 339" length="338">ctctccactgaggggtttggcaccagcaccccgcccagagcagtgccgctgcccaaatcctcgcaggcagctcatcaacgcaattgcaactccggctggagccccggacctgcaagcctgggtgtccgtgggtccgtctgcccagccatctgctggtggcacctctccctcctgccgcctccctcggtgaaccccaccttgcagaagtgcagctcgcccggagcagcccaggagctcagcatgcgtcccccaggcttcaggaacttcttgctgctggcgtcctcccttctctttgctgggttgtcagctgttcctcaaagcttctcgccatctctgag</Exon>
+        <Exon position="340 - 557" length="217">agctggccgggcgccgcctgcaggctgtcccgggccgagtcggagcgacgctgccgcgcacctgggcagcccccgggggccgcgctgtgccacggccggggccgctgcgactgcggcgtctgcatctgccacgtgactgagccgggcatgttcttcgggcccctgtgtgagtgccatgagtgggtgtgcgagacctacgacgggagcacctgtgcag</Exon>
+        <Exon position="558 - 680" length="122">tacatgtcactgtggcaggtgtaagtgtgataattcagatggaagtggacttgtgtatggtaaattttgtgagtgtgacgatagagaatgcatagacgatgaaacagaagaaatatgtggag</Exon>
+        <Exon position="681 - 821" length="140">ccatgggaagtgttactgtggaaactgctactgcaaggctggttggcatggagataaatgtgaattccagtgcgatatcaccccctgggaaagcaagcgaagatgcacgtctccagatggcaaaatctgcagtaacagag</Exon>
+        <Exon position="822 - 962" length="140">gacttgtgtatgtggtgaatgtacctgtcacgatgttgatccgactggggactggggagatattcatggggacacctgtgaatgtgatgagagggactgtagagctgtctatgaccgatattctgatgacttctgttcag</Exon>
+        <Exon position="963 - 1109" length="146">tcatggacagtgtaattgcggaagatgtgactgcaaagcaggctggtatgggaagaagtgtgagcacccacagtcctgcacgctgtcagctgaggagagcatcaggaagtgccagggaagctcggatctgccttgctctgggaggg</Exon>
+        <Exon position="1110 - 1226" length="116">taaatgtgaatgtggcaaatgcacctgctatcctccaggagatcgccgggtgtatggcaagacttgtgagtgtgatgatcgccgctgtgaagacctcgatggtgtggtctgtggag</Exon>
+        <Exon position="1227 - 1373" length="146">ccacggcacatgttcctgtggtcgctgtgtttgtgagagaggatggtttggaaagctctgccaacatccgcggaagtgtaacatgacggaagaacaaagcaagaatctgtgtgaatcagcagatggcatattgtgctcggggaagg</Exon>
+        <Exon position="1374 - 1487" length="113">ttcttgtcattgtgggaagtgcatttgttctgctgaagagtggtatatttctggggagttctgtgactgtgatgacagagactgcgacaaacatgatggtctcatttgtacag</Exon>
+        <Exon position="1488 - 2371" length="883">gaatggaatatgtagctgtggaaactgtgaatgctgggatggatggaatggaaatgcatgtgaaatctggcttggctcagaatatccttaacaattacatgagagaggtctggattcttattttttctgggccattagaacatataaatgcgaaggaaaccatgtatattcaccactaggacaggttaaaaagaccattgtatgtttttctatttctgaattacgaatgaaatccgagtacctattagaaatgagttatgcaaatttagatgcaaataacattagaaaaaaaagattcttccataattaacataagtggttcctaacgagagcaatttttccacccaaaagtcatttggcaacatctacagacaattttgattgtcacactgggtcgggtaggaaggtatgctgcagacatttggtgggtagaggccagggatgctgctgagcatcccgcagtgtacaggacagcccccaaacaaggaattatccagccccaaatgccaatagggctcaaactgagaaacattgagttatatggctattagaaatccacattcttacacaagaaagaccatattagaatctaaggaaaacatgcatattcacattaattaatcgatcagatttttccagaattccgtatcagtcaccattttaatatggggacaatgaagacaagcacacaggaggtagaatatcagagtggggctggatcaagggcaaaaactggtcattaagtcatctgacattaaatcatttagccactaagttatttgtctactctcactttaaactcaccaaagaagattctcttaaagaaattatgaaaaatgtacaatttaacattttaaataaatagtgacagaagttgtttata</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_004791" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 339" length="338">ctctccactgaggggtttggcaccagcaccccgcccagagcagtgccgctgcccaaatcctcgcaggcagctcatcaacgcaattgcaactccggctggagccccggacctgcaagcctgggtgtccgtgggtccgtctgcccagccatctgctggtggcacctctccctcctgccgcctccctcggtgaaccccaccttgcagaagtgcagctcgcccggagcagcccaggagctcagcatgcgtcccccaggcttcaggaacttcttgctgctggcgtcctcccttctctttgctgggttgtcagctgttcctcaaagcttctcgccatctctgag</Exon>
+        <Exon position="340 - 557" length="217">agctggccgggcgccgcctgcaggctgtcccgggccgagtcggagcgacgctgccgcgcacctgggcagcccccgggggccgcgctgtgccacggccggggccgctgcgactgcggcgtctgcatctgccacgtgactgagccgggcatgttcttcgggcccctgtgtgagtgccatgagtgggtgtgcgagacctacgacgggagcacctgtgcag</Exon>
+        <Exon position="558 - 704" length="146">ccatggtaagtgtgactgtggcaagtgcaagtgtgaccagggatggtatggggatgcttgccagtacccaactaactgtgacttgacaaagaagaaaagtaaccaaatgtgcaagaattcacaagacatcatctgctctaatgcag</Exon>
+        <Exon position="705 - 827" length="122">tacatgtcactgtggcaggtgtaagtgtgataattcagatggaagtggacttgtgtatggtaaattttgtgagtgtgacgatagagaatgcatagacgatgaaacagaagaaatatgtggag</Exon>
+        <Exon position="828 - 968" length="140">ccatgggaagtgttactgtggaaactgctactgcaaggctggttggcatggagataaatgtgaattccagtgcgatatcaccccctgggaaagcaagcgaagatgcacgtctccagatggcaaaatctgcagtaacagag</Exon>
+        <Exon position="969 - 1109" length="140">gacttgtgtatgtggtgaatgtacctgtcacgatgttgatccgactggggactggggagatattcatggggacacctgtgaatgtgatgagagggactgtagagctgtctatgaccgatattctgatgacttctgttcag</Exon>
+        <Exon position="1110 - 1256" length="146">tcatggacagtgtaattgcggaagatgtgactgcaaagcaggctggtatgggaagaagtgtgagcacccacagtcctgcacgctgtcagctgaggagagcatcaggaagtgccagggaagctcggatctgccttgctctgggaggg</Exon>
+        <Exon position="1257 - 1373" length="116">taaatgtgaatgtggcaaatgcacctgctatcctccaggagatcgccgggtgtatggcaagacttgtgagtgtgatgatcgccgctgtgaagacctcgatggtgtggtctgtggag</Exon>
+        <Exon position="1374 - 1520" length="146">ccacggcacatgttcctgtggtcgctgtgtttgtgagagaggatggtttggaaagctctgccaacatccgcggaagtgtaacatgacggaagaacaaagcaagaatctgtgtgaatcagcagatggcatattgtgctcggggaagg</Exon>
+        <Exon position="1521 - 1634" length="113">ttcttgtcattgtgggaagtgcatttgttctgctgaagagtggtatatttctggggagttctgtgactgtgatgacagagactgcgacaaacatgatggtctcatttgtacag</Exon>
+        <Exon position="1635 - 2518" length="883">gaatggaatatgtagctgtggaaactgtgaatgctgggatggatggaatggaaatgcatgtgaaatctggcttggctcagaatatccttaacaattacatgagagaggtctggattcttattttttctgggccattagaacatataaatgcgaaggaaaccatgtatattcaccactaggacaggttaaaaagaccattgtatgtttttctatttctgaattacgaatgaaatccgagtacctattagaaatgagttatgcaaatttagatgcaaataacattagaaaaaaaagattcttccataattaacataagtggttcctaacgagagcaatttttccacccaaaagtcatttggcaacatctacagacaattttgattgtcacactgggtcgggtaggaaggtatgctgcagacatttggtgggtagaggccagggatgctgctgagcatcccgcagtgtacaggacagcccccaaacaaggaattatccagccccaaatgccaatagggctcaaactgagaaacattgagttatatggctattagaaatccacattcttacacaagaaagaccatattagaatctaaggaaaacatgcatattcacattaattaatcgatcagatttttccagaattccgtatcagtcaccattttaatatggggacaatgaagacaagcacacaggaggtagaatatcagagtggggctggatcaagggcaaaaactggtcattaagtcatctgacattaaatcatttagccactaagttatttgtctactctcactttaaactcaccaaagaagattctcttaaagaaattatgaaaaatgtacaatttaacattttaaataaatagtgacagaagttgtttata</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001267810" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 21" length="20">tgtgaggggaacctgggagg</Exon>
+        <Exon position="22 - 133" length="111">cctcatggcggtccgagcttcgttcgagaacaactgtgagatcggctgctttgccaagctcaccaacacctactgtctggtagcgatcggaggctcagagaacttctacag</Exon>
+        <Exon position="134 - 219" length="85">gtgttcgagggcgagctctccgataccatccccgtggtgcacgcgtctatcgccggctgccgcatcatcgggcgcatgtgtgtgg</Exon>
+        <Exon position="220 - 395" length="175">gaacaggcacggtctcctggtacccaacaataccaccgaccaggagctgcaacacattcgcaacagcctcccagacacagtgcagattaggcgggtggaggagcggctctcagccttgggcaatgtcaccacctgcaatgactacgtggccttggtccacccagacttggacagg</Exon>
+        <Exon position="396 - 572" length="176">agacagaagaaattctggcagatgtgctcaaggtggaagtcttcagacagacagtggccgaccaggtgctagtaggaagctactgtgtcttcagcaatcagggagggctggtgcatcccaagacttcaattgaagaccaggatgagctgtcctctcttcttcaagtcccccttgtg</Exon>
+        <Exon position="573 - 754" length="181">cggggactgtgaaccgaggcagtgaggtgattgctgctgggatggtggtgaatgactggtgtgccttctgtggcctggacacaaccagcacagagctgtcagtggtggagagtgtcttcaagctgaatgaagcccagcctagcaccattgccaccagcatgcgggattccctcattgacag</Exon>
+        <Exon position="755 - 1055" length="300">ctcacctgagtcaccttccaagttgttccatgggctcctggctctggactgtggccaaccttctccacattccgcccaatctgtaccggatgctggcagggaggtggcagagagctcactgggactgaggggctgggcacccaacccttttccacctgtgcttatcgcctggatctatcattactgcaaaaacctgctctgttgtgctggctggcaggccctgtggctgctggctgagggttctgctgtcctgtgccaccccattaaagtgcagttccctccgggccattctgaatgtga</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_181466" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 91" length="90">gaagtctccctggacggaagtggaaacggaaacctttttagggagtccaaggtacagtcgccgcgtgcggagcttgttactggttacttg</Exon>
+        <Exon position="92 - 408" length="316">cctcatggcggtccgagcttcgttcgagaacaactgtgagatcggctgctttgccaagctcaccaacacctactgtctggtagcgatcggaggctcagagaacttctacaggtgcggcgggagccccggggcttacggtggcggggaggcgtgcgcaggagtcaagagctccggcagtgggagggtgccggcccctctgccccgccaccaccgagtccatgtccctacagtgtgttcgagggcgagctctccgataccatccccgtggtgcacgcgtctatcgccggctgccgcatcatcgggcgcatgtgtgtgg</Exon>
+        <Exon position="409 - 585" length="176">agacagaagaaattctggcagatgtgctcaaggtggaagtcttcagacagacagtggccgaccaggtgctagtaggaagctactgtgtcttcagcaatcagggagggctggtgcatcccaagacttcaattgaagaccaggatgagctgtcctctcttcttcaagtcccccttgtg</Exon>
+        <Exon position="586 - 767" length="181">cggggactgtgaaccgaggcagtgaggtgattgctgctgggatggtggtgaatgactggtgtgccttctgtggcctggacacaaccagcacagagctgtcagtggtggagagtgtcttcaagctgaatgaagcccagcctagcaccattgccaccagcatgcgggattccctcattgacag</Exon>
+        <Exon position="768 - 1068" length="300">ctcacctgagtcaccttccaagttgttccatgggctcctggctctggactgtggccaaccttctccacattccgcccaatctgtaccggatgctggcagggaggtggcagagagctcactgggactgaggggctgggcacccaacccttttccacctgtgcttatcgcctggatctatcattactgcaaaaacctgctctgttgtgctggctggcaggccctgtggctgctggctgagggttctgctgtcctgtgccaccccattaaagtgcagttccctccgggccattctgaatgtga</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_002212" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 91" length="90">gaagtctccctggacggaagtggaaacggaaacctttttagggagtccaaggtacagtcgccgcgtgcggagcttgttactggttacttg</Exon>
+        <Exon position="92 - 203" length="111">cctcatggcggtccgagcttcgttcgagaacaactgtgagatcggctgctttgccaagctcaccaacacctactgtctggtagcgatcggaggctcagagaacttctacag</Exon>
+        <Exon position="204 - 289" length="85">gtgttcgagggcgagctctccgataccatccccgtggtgcacgcgtctatcgccggctgccgcatcatcgggcgcatgtgtgtgg</Exon>
+        <Exon position="290 - 465" length="175">gaacaggcacggtctcctggtacccaacaataccaccgaccaggagctgcaacacattcgcaacagcctcccagacacagtgcagattaggcgggtggaggagcggctctcagccttgggcaatgtcaccacctgcaatgactacgtggccttggtccacccagacttggacagg</Exon>
+        <Exon position="466 - 642" length="176">agacagaagaaattctggcagatgtgctcaaggtggaagtcttcagacagacagtggccgaccaggtgctagtaggaagctactgtgtcttcagcaatcagggagggctggtgcatcccaagacttcaattgaagaccaggatgagctgtcctctcttcttcaagtcccccttgtg</Exon>
+        <Exon position="643 - 824" length="181">cggggactgtgaaccgaggcagtgaggtgattgctgctgggatggtggtgaatgactggtgtgccttctgtggcctggacacaaccagcacagagctgtcagtggtggagagtgtcttcaagctgaatgaagcccagcctagcaccattgccaccagcatgcgggattccctcattgacag</Exon>
+        <Exon position="825 - 1125" length="300">ctcacctgagtcaccttccaagttgttccatgggctcctggctctggactgtggccaaccttctccacattccgcccaatctgtaccggatgctggcagggaggtggcagagagctcactgggactgaggggctgggcacccaacccttttccacctgtgcttatcgcctggatctatcattactgcaaaaacctgctctgttgtgctggctggcaggccctgtggctgctggctgagggttctgctgtcctgtgccaccccattaaagtgcagttccctccgggccattctgaatgtga</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_181468" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 337" length="336">tgtgaggggaacctgggagggtcagctccggtcctgggtcgggaggggtgggggccagaggattcagggccggaggttctggtgggggcccagtgggcgggacccgaggacggaggggccgggaggccgagaggggcggggtcgcggcggggcctgagggacggaggccgggatacttgggaaaggatccgccggccttgaactcccgcctccgccgcccctaggcctcatggcggtccgagcttcgttcgagaacaactgtgagatcggctgctttgccaagctcaccaacacctactgtctggtagcgatcggaggctcagagaacttctacag</Exon>
+        <Exon position="338 - 423" length="85">gtgttcgagggcgagctctccgataccatccccgtggtgcacgcgtctatcgccggctgccgcatcatcgggcgcatgtgtgtgg</Exon>
+        <Exon position="424 - 599" length="175">gaacaggcacggtctcctggtacccaacaataccaccgaccaggagctgcaacacattcgcaacagcctcccagacacagtgcagattaggcgggtggaggagcggctctcagccttgggcaatgtcaccacctgcaatgactacgtggccttggtccacccagacttggacagg</Exon>
+        <Exon position="600 - 776" length="176">agacagaagaaattctggcagatgtgctcaaggtggaagtcttcagacagacagtggccgaccaggtgctagtaggaagctactgtgtcttcagcaatcagggagggctggtgcatcccaagacttcaattgaagaccaggatgagctgtcctctcttcttcaagtcccccttgtg</Exon>
+        <Exon position="777 - 958" length="181">cggggactgtgaaccgaggcagtgaggtgattgctgctgggatggtggtgaatgactggtgtgccttctgtggcctggacacaaccagcacagagctgtcagtggtggagagtgtcttcaagctgaatgaagcccagcctagcaccattgccaccagcatgcgggattccctcattgacag</Exon>
+        <Exon position="959 - 1259" length="300">ctcacctgagtcaccttccaagttgttccatgggctcctggctctggactgtggccaaccttctccacattccgcccaatctgtaccggatgctggcagggaggtggcagagagctcactgggactgaggggctgggcacccaacccttttccacctgtgcttatcgcctggatctatcattactgcaaaaacctgctctgttgtgctggctggcaggccctgtggctgctggctgagggttctgctgtcctgtgccaccccattaaagtgcagttccctccgggccattctgaatgtga</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001206739" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 145" length="144">ccgcccggccgcggtgggcttgacgcaacgtccagcgcgcgcttttcatgccttggcgtttcctttggcggattttctgttttcggaagttgctgggttcgttttattcagcggcagtggtgctttcccgaatctcagaatgcc</Exon>
+        <Exon position="146 - 262" length="116">tttgctcccgttgcccaggctagagtgcaatggcacgatttccgttcactgcaacatctgcttcccgcgttcaagcgattctcctgcctcagccttgggagtagttgggattacag</Exon>
+        <Exon position="263 - 305" length="42">gttaaaagatcactgaagttggatggtctgttagaagaaaat</Exon>
+        <Exon position="306 - 441" length="135">catttgatccttcaaaaatcacaaggaagaaaagtgttataacttattctccaacaactggaacttgtcaaatgagtctatttgcttctcccacaagttctgaagagcaaaagcacagaaatggactatcaaatg</Exon>
+        <Exon position="442 - 511" length="69">aaagagaaaaaaattgaatcaccccagtttaactgaaagcaaagaatctacaacaaaagacaatgatga</Exon>
+        <Exon position="512 - 590" length="78">ttcatgatgttgctatcaaaagttgagaaattgtcagaagaaatcatggagataatgcaaaatttaagtagtatacag</Exon>
+        <Exon position="591 - 684" length="93">ctttggagggcagtagagagcttgaaaatctcattggaatctcctgtgcatcacatttcttaaaaagagaaatgcagaaaaccaaagaactaa</Exon>
+        <Exon position="685 - 741" length="56">gacaaaagtgaataaacaaaaactgtttgaaaagagtacaggacttcctcacaaag</Exon>
+        <Exon position="742 - 792" length="50">atcacgtcatcttgacagctatgaattccttaaagccattttaaactgag</Exon>
+        <Exon position="793 - 1126" length="333">cattaagaagaaatgcactcaccatgagcaccaacttctgcatctgcctgatcatatttaaaggaacagagaaatatttgtaattaatctgcccagtaaataccagctcgtagcagttggcaggtgcatgtctagataaaatttcttgcagctaatttaaactttctacacgcaccagtagataatctcaatgtaaataatacatttcttcttggctctttaatgtaagccaacatggagaggaagatcttgacttatattctgtaccacatacacttctgtggacttttagcatttgtgggtagacttaataaagcatgtataaaagtggca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_014288" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 145" length="144">ccgcccggccgcggtgggcttgacgcaacgtccagcgcgcgcttttcatgccttggcgtttcctttggcggattttctgttttcggaagttgctgggttcgttttattcagcggcagtggtgctttcccgaatctcagaatgcc</Exon>
+        <Exon position="146 - 188" length="42">gttaaaagatcactgaagttggatggtctgttagaagaaaat</Exon>
+        <Exon position="189 - 324" length="135">catttgatccttcaaaaatcacaaggaagaaaagtgttataacttattctccaacaactggaacttgtcaaatgagtctatttgcttctcccacaagttctgaagagcaaaagcacagaaatggactatcaaatg</Exon>
+        <Exon position="325 - 394" length="69">aaagagaaaaaaattgaatcaccccagtttaactgaaagcaaagaatctacaacaaaagacaatgatga</Exon>
+        <Exon position="395 - 473" length="78">ttcatgatgttgctatcaaaagttgagaaattgtcagaagaaatcatggagataatgcaaaatttaagtagtatacag</Exon>
+        <Exon position="474 - 567" length="93">ctttggagggcagtagagagcttgaaaatctcattggaatctcctgtgcatcacatttcttaaaaagagaaatgcagaaaaccaaagaactaa</Exon>
+        <Exon position="568 - 624" length="56">gacaaaagtgaataaacaaaaactgtttgaaaagagtacaggacttcctcacaaag</Exon>
+        <Exon position="625 - 675" length="50">atcacgtcatcttgacagctatgaattccttaaagccattttaaactgag</Exon>
+        <Exon position="676 - 1009" length="333">cattaagaagaaatgcactcaccatgagcaccaacttctgcatctgcctgatcatatttaaaggaacagagaaatatttgtaattaatctgcccagtaaataccagctcgtagcagttggcaggtgcatgtctagataaaatttcttgcagctaatttaaactttctacacgcaccagtagataatctcaatgtaaataatacatttcttcttggctctttaatgtaagccaacatggagaggaagatcttgacttatattctgtaccacatacacttctgtggacttttagcatttgtgggtagacttaataaagcatgtataaaagtggca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_002211" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 221" length="220">tcagacgcgcagaggaggcggggccgcggctggtttcctgccggggggcggctctgggccgccgagtcccctcctcccgcccctgaggaggaggagccgccgccacccgccgcgcccgacacccgggaggccccgccagcccgcgggagaggcccagcgggagtcgcggaacagcaggcccgagcccaccgcgccgggccccggacgccgcgcggaaaag</Exon>
+        <Exon position="222 - 288" length="66">tgaatttacaaccaattttctggattggactgatcagttcagtttgctgtgtgtttgctcaaacag</Exon>
+        <Exon position="289 - 374" length="85">tgaaaatagatgtttaaaagcaaatgccaaatcatgtggagaatgtatacaagcagggccaaattgtgggtggtgcacaaattca</Exon>
+        <Exon position="375 - 597" length="222">catttttacaggaaggaatgcctacttctgcacgatgtgatgatttagaagccttaaaaaagaagggttgccctccagatgacatagaaaatcccagaggctccaaagatataaagaaaaataaaaatgtaaccaaccgtagcaaaggaacagcagagaagctcaagccagaggatattactcagatccaaccacagcagttggttttgcgattaagatcag</Exon>
+        <Exon position="598 - 768" length="170">ggagccacagacatttacattaaaattcaagagagctgaagactatcccattgacctctactaccttatggacctgtcttactcaatgaaagacgatttggagaatgtaaaaagtcttggaacagatctgatgaatgaaatgaggaggattacttcggacttcagaattg</Exon>
+        <Exon position="769 - 1007" length="238">atttggctcatttgtggaaaagactgtgatgccttacattagcacaacaccagctaagctcaggaacccttgcacaagtgaacagaactgcaccagcccatttagctacaaaaatgtgctcagtcttactaataaaggagaagtatttaatgaacttgttggaaaacagcgcatatctggaaatttggattctccagaaggtggtttcgatgccatcatgcaagttgcagtttgtgga</Exon>
+        <Exon position="1008 - 1163" length="155">cactgattggctggaggaatgttacacggctgctggtgttttccacagatgccgggtttcactttgctggagatgggaaacttggtggcattgttttaccaaatgatggacaatgtcacctggaaaataatatgtacacaatgagccattattat</Exon>
+        <Exon position="1164 - 1259" length="95">attatccttctattgctcaccttgtccagaaactgagtgaaaataatattcagacaatttttgcagttactgaagaatttcagcctgtttacaag</Exon>
+        <Exon position="1260 - 1349" length="89">agctgaaaaacttgatccctaagtcagcagtaggaacattatctgcaaattctagcaatgtaattcagttgatcattgatgcatacaat</Exon>
+        <Exon position="1350 - 1490" length="140">ccctttcctcagaagtcattttggaaaacggcaaattgtcagaaggcgtaacaataagttacaaatcttactgcaagaacggggtgaatggaacaggggaaaatggaagaaaatgttccaatatttccattggagatgag</Exon>
+        <Exon position="1491 - 1690" length="199">ttcaatttgaaattagcataacttcaaataagtgtccaaaaaaggattctgacagctttaaaattaggcctctgggctttacggaggaagtagaggttattcttcagtacatctgtgaatgtgaatgccaaagcgaaggcatccctgaaagtcccaagtgtcatgaaggaaatgggacatttgagtgtggcgcgtgcag</Exon>
+        <Exon position="1691 - 1929" length="238">tgcaatgaagggcgtgttggtagacattgtgaatgcagcacagatgaagttaacagtgaagacatggatgcttactgcaggaaagaaaacagttcagaaatctgcagtaacaatggagagtgcgtctgcggacagtgtgtttgtaggaagagggataatacaaatgaaatttattctggcaaattctgcgagtgtgataatttcaactgtgatagatccaatggcttaatttgtggag</Exon>
+        <Exon position="1930 - 2152" length="222">aaatggtgtttgcaagtgtcgtgtgtgtgagtgcaaccccaactacactggcagtgcatgtgactgttctttggatactagtacttgtgaagccagcaacggacagatctgcaatggccggggcatctgcgagtgtggtgtctgtaagtgtacagatccgaagtttcaagggcaaacgtgtgagatgtgtcagacctgccttggtgtctgtgctgagcataa</Exon>
+        <Exon position="2153 - 2385" length="232">gaatgtgttcagtgcagagccttcaataaaggagaaaagaaagacacatgcacacaggaatgttcctattttaacattaccaaggtagaaagtcgggacaaattaccccagccggtccaacctgatcctgtgtcccattgtaaggagaaggatgttgacgactgttggttctattttacgtattcagtgaatgggaacaacgaggtcatggttcatgttgtggagaatccag</Exon>
+        <Exon position="2386 - 2552" length="166">gtgtcccactggtccagacatcattccaattgtagctggtgtggttgctggaattgttcttattggccttgcattactgctgatatggaagcttttaatgataattcatgacagaagggagtttgctaaatttgaaaaggagaaaatgaatgccaaatgggacacg</Exon>
+        <Exon position="2553 - 3870" length="1317">gtgaaaatcctatttataagagtgccgtaacaactgtggtcaatccgaagtatgagggaaaatgagtactgcccgtgcaaatcccacaacactgaatgcaaagtagcaatttccatagtcacagttaggtagctttagggcaatattgccatggttttactcatgtgcaggttttgaaaatgtacaatatgtataatttttaaaatgttttattattttgaaaataatgttgtaattcatgccagggactgacaaaagacttgagacaggatggttactcttgtcagctaaggtcacattgtgcctttttgaccttttcttcctggactattgaaatcaagcttattggattaagtgatatttctatagcgattgaaagggcaatagttaaagtaatgagcatgatgagagtttctgttaatcatgtattaaaactgatttttagctttacaaatatgtcagtttgcagttatgcagaatccaaagtaaatgtcctgctagctagttaaggattgttttaaatctgttattttgctatttgcctgttagacatgactgatgacatatctgaaagacaagtatgttgagagttgctggtgtaaaatacgtttgaaatagttgatctacaaaggccatgggaaaaattcagagagttaggaaggaaaaaccaatagctttaaaacctgtgtgccattttaagagttacttaatgtttggtaacttttatgccttcactttacaaattcaagccttagataaaagaaccgagcaattttctgctaaaaagtccttgatttagcactatttacatacaggccatactttacaaagtatttgctgaatggggaccttttgagttgaatttattttattatttttattttgtttaatgtctggtgctttctgtcacctcttctaatcttttaatgtatttgtttgcaattttggggtaagactttttttatgagtactttttctttgaagttttagcggtcaatttgcctttttaatgaacatgtgaagttatactgtggctatgcaacagctctcacctacgcgagtcttactttgagttagtgccataacagaccactgtatgtttacttctcaccatttgagttgcccatcttgtttcacactagtcacattcttgttttaagtgcctttagttttaacagttcactttttacagtgctatttactgaagttatttattaaatatgcctaaaatacttaaatcggatgtcttgactctgatgtattttatcaggttgtgtgcatgaaatttttatagattaaagaagttgaggaaaagca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_133376" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 136" length="135">agccagcccagccgcgttccgaacgtgagggtcgccggcctgggcgctgtcacgtcggggctgccggagctgcgggggaccgggcccgaacggcccctgacacctgcggtctcccgccgggctgggcaagcgcag</Exon>
+        <Exon position="137 - 203" length="66">tgaatttacaaccaattttctggattggactgatcagttcagtttgctgtgtgtttgctcaaacag</Exon>
+        <Exon position="204 - 289" length="85">tgaaaatagatgtttaaaagcaaatgccaaatcatgtggagaatgtatacaagcagggccaaattgtgggtggtgcacaaattca</Exon>
+        <Exon position="290 - 512" length="222">catttttacaggaaggaatgcctacttctgcacgatgtgatgatttagaagccttaaaaaagaagggttgccctccagatgacatagaaaatcccagaggctccaaagatataaagaaaaataaaaatgtaaccaaccgtagcaaaggaacagcagagaagctcaagccagaggatattactcagatccaaccacagcagttggttttgcgattaagatcag</Exon>
+        <Exon position="513 - 683" length="170">ggagccacagacatttacattaaaattcaagagagctgaagactatcccattgacctctactaccttatggacctgtcttactcaatgaaagacgatttggagaatgtaaaaagtcttggaacagatctgatgaatgaaatgaggaggattacttcggacttcagaattg</Exon>
+        <Exon position="684 - 922" length="238">atttggctcatttgtggaaaagactgtgatgccttacattagcacaacaccagctaagctcaggaacccttgcacaagtgaacagaactgcaccagcccatttagctacaaaaatgtgctcagtcttactaataaaggagaagtatttaatgaacttgttggaaaacagcgcatatctggaaatttggattctccagaaggtggtttcgatgccatcatgcaagttgcagtttgtgga</Exon>
+        <Exon position="923 - 1078" length="155">cactgattggctggaggaatgttacacggctgctggtgttttccacagatgccgggtttcactttgctggagatgggaaacttggtggcattgttttaccaaatgatggacaatgtcacctggaaaataatatgtacacaatgagccattattat</Exon>
+        <Exon position="1079 - 1174" length="95">attatccttctattgctcaccttgtccagaaactgagtgaaaataatattcagacaatttttgcagttactgaagaatttcagcctgtttacaag</Exon>
+        <Exon position="1175 - 1264" length="89">agctgaaaaacttgatccctaagtcagcagtaggaacattatctgcaaattctagcaatgtaattcagttgatcattgatgcatacaat</Exon>
+        <Exon position="1265 - 1405" length="140">ccctttcctcagaagtcattttggaaaacggcaaattgtcagaaggcgtaacaataagttacaaatcttactgcaagaacggggtgaatggaacaggggaaaatggaagaaaatgttccaatatttccattggagatgag</Exon>
+        <Exon position="1406 - 1605" length="199">ttcaatttgaaattagcataacttcaaataagtgtccaaaaaaggattctgacagctttaaaattaggcctctgggctttacggaggaagtagaggttattcttcagtacatctgtgaatgtgaatgccaaagcgaaggcatccctgaaagtcccaagtgtcatgaaggaaatgggacatttgagtgtggcgcgtgcag</Exon>
+        <Exon position="1606 - 1844" length="238">tgcaatgaagggcgtgttggtagacattgtgaatgcagcacagatgaagttaacagtgaagacatggatgcttactgcaggaaagaaaacagttcagaaatctgcagtaacaatggagagtgcgtctgcggacagtgtgtttgtaggaagagggataatacaaatgaaatttattctggcaaattctgcgagtgtgataatttcaactgtgatagatccaatggcttaatttgtggag</Exon>
+        <Exon position="1845 - 2067" length="222">aaatggtgtttgcaagtgtcgtgtgtgtgagtgcaaccccaactacactggcagtgcatgtgactgttctttggatactagtacttgtgaagccagcaacggacagatctgcaatggccggggcatctgcgagtgtggtgtctgtaagtgtacagatccgaagtttcaagggcaaacgtgtgagatgtgtcagacctgccttggtgtctgtgctgagcataa</Exon>
+        <Exon position="2068 - 2300" length="232">gaatgtgttcagtgcagagccttcaataaaggagaaaagaaagacacatgcacacaggaatgttcctattttaacattaccaaggtagaaagtcgggacaaattaccccagccggtccaacctgatcctgtgtcccattgtaaggagaaggatgttgacgactgttggttctattttacgtattcagtgaatgggaacaacgaggtcatggttcatgttgtggagaatccag</Exon>
+        <Exon position="2301 - 2467" length="166">gtgtcccactggtccagacatcattccaattgtagctggtgtggttgctggaattgttcttattggccttgcattactgctgatatggaagcttttaatgataattcatgacagaagggagtttgctaaatttgaaaaggagaaaatgaatgccaaatgggacacg</Exon>
+        <Exon position="2468 - 3785" length="1317">gtgaaaatcctatttataagagtgccgtaacaactgtggtcaatccgaagtatgagggaaaatgagtactgcccgtgcaaatcccacaacactgaatgcaaagtagcaatttccatagtcacagttaggtagctttagggcaatattgccatggttttactcatgtgcaggttttgaaaatgtacaatatgtataatttttaaaatgttttattattttgaaaataatgttgtaattcatgccagggactgacaaaagacttgagacaggatggttactcttgtcagctaaggtcacattgtgcctttttgaccttttcttcctggactattgaaatcaagcttattggattaagtgatatttctatagcgattgaaagggcaatagttaaagtaatgagcatgatgagagtttctgttaatcatgtattaaaactgatttttagctttacaaatatgtcagtttgcagttatgcagaatccaaagtaaatgtcctgctagctagttaaggattgttttaaatctgttattttgctatttgcctgttagacatgactgatgacatatctgaaagacaagtatgttgagagttgctggtgtaaaatacgtttgaaatagttgatctacaaaggccatgggaaaaattcagagagttaggaaggaaaaaccaatagctttaaaacctgtgtgccattttaagagttacttaatgtttggtaacttttatgccttcactttacaaattcaagccttagataaaagaaccgagcaattttctgctaaaaagtccttgatttagcactatttacatacaggccatactttacaaagtatttgctgaatggggaccttttgagttgaatttattttattatttttattttgtttaatgtctggtgctttctgtcacctcttctaatcttttaatgtatttgtttgcaattttggggtaagactttttttatgagtactttttctttgaagttttagcggtcaatttgcctttttaatgaacatgtgaagttatactgtggctatgcaacagctctcacctacgcgagtcttactttgagttagtgccataacagaccactgtatgtttacttctcaccatttgagttgcccatcttgtttcacactagtcacattcttgttttaagtgcctttagttttaacagttcactttttacagtgctatttactgaagttatttattaaatatgcctaaaatacttaaatcggatgtcttgactctgatgtattttatcaggttgtgtgcatgaaatttttatagattaaagaagttgaggaaaagca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_033668" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 67" length="66">tgaatttacaaccaattttctggattggactgatcagttcagtttgctgtgtgtttgctcaaacag</Exon>
+        <Exon position="68 - 153" length="85">tgaaaatagatgtttaaaagcaaatgccaaatcatgtggagaatgtatacaagcagggccaaattgtgggtggtgcacaaattca</Exon>
+        <Exon position="154 - 376" length="222">catttttacaggaaggaatgcctacttctgcacgatgtgatgatttagaagccttaaaaaagaagggttgccctccagatgacatagaaaatcccagaggctccaaagatataaagaaaaataaaaatgtaaccaaccgtagcaaaggaacagcagagaagctcaagccagaggatattactcagatccaaccacagcagttggttttgcgattaagatcag</Exon>
+        <Exon position="377 - 547" length="170">ggagccacagacatttacattaaaattcaagagagctgaagactatcccattgacctctactaccttatggacctgtcttactcaatgaaagacgatttggagaatgtaaaaagtcttggaacagatctgatgaatgaaatgaggaggattacttcggacttcagaattg</Exon>
+        <Exon position="548 - 786" length="238">atttggctcatttgtggaaaagactgtgatgccttacattagcacaacaccagctaagctcaggaacccttgcacaagtgaacagaactgcaccagcccatttagctacaaaaatgtgctcagtcttactaataaaggagaagtatttaatgaacttgttggaaaacagcgcatatctggaaatttggattctccagaaggtggtttcgatgccatcatgcaagttgcagtttgtgga</Exon>
+        <Exon position="787 - 942" length="155">cactgattggctggaggaatgttacacggctgctggtgttttccacagatgccgggtttcactttgctggagatgggaaacttggtggcattgttttaccaaatgatggacaatgtcacctggaaaataatatgtacacaatgagccattattat</Exon>
+        <Exon position="943 - 1038" length="95">attatccttctattgctcaccttgtccagaaactgagtgaaaataatattcagacaatttttgcagttactgaagaatttcagcctgtttacaag</Exon>
+        <Exon position="1039 - 1128" length="89">agctgaaaaacttgatccctaagtcagcagtaggaacattatctgcaaattctagcaatgtaattcagttgatcattgatgcatacaat</Exon>
+        <Exon position="1129 - 1269" length="140">ccctttcctcagaagtcattttggaaaacggcaaattgtcagaaggcgtaacaataagttacaaatcttactgcaagaacggggtgaatggaacaggggaaaatggaagaaaatgttccaatatttccattggagatgag</Exon>
+        <Exon position="1270 - 1469" length="199">ttcaatttgaaattagcataacttcaaataagtgtccaaaaaaggattctgacagctttaaaattaggcctctgggctttacggaggaagtagaggttattcttcagtacatctgtgaatgtgaatgccaaagcgaaggcatccctgaaagtcccaagtgtcatgaaggaaatgggacatttgagtgtggcgcgtgcag</Exon>
+        <Exon position="1470 - 1708" length="238">tgcaatgaagggcgtgttggtagacattgtgaatgcagcacagatgaagttaacagtgaagacatggatgcttactgcaggaaagaaaacagttcagaaatctgcagtaacaatggagagtgcgtctgcggacagtgtgtttgtaggaagagggataatacaaatgaaatttattctggcaaattctgcgagtgtgataatttcaactgtgatagatccaatggcttaatttgtggag</Exon>
+        <Exon position="1709 - 1931" length="222">aaatggtgtttgcaagtgtcgtgtgtgtgagtgcaaccccaactacactggcagtgcatgtgactgttctttggatactagtacttgtgaagccagcaacggacagatctgcaatggccggggcatctgcgagtgtggtgtctgtaagtgtacagatccgaagtttcaagggcaaacgtgtgagatgtgtcagacctgccttggtgtctgtgctgagcataa</Exon>
+        <Exon position="1932 - 2164" length="232">gaatgtgttcagtgcagagccttcaataaaggagaaaagaaagacacatgcacacaggaatgttcctattttaacattaccaaggtagaaagtcgggacaaattaccccagccggtccaacctgatcctgtgtcccattgtaaggagaaggatgttgacgactgttggttctattttacgtattcagtgaatgggaacaacgaggtcatggttcatgttgtggagaatccag</Exon>
+        <Exon position="2165 - 2331" length="166">gtgtcccactggtccagacatcattccaattgtagctggtgtggttgctggaattgttcttattggccttgcattactgctgatatggaagcttttaatgataattcatgacagaagggagtttgctaaatttgaaaaggagaaaatgaatgccaaatgggacacg</Exon>
+        <Exon position="2332 - 2412" length="80">aagaaaatccgatttacaagagtcctattaataatttcaagaatccaaactacggacgtaaagctggtctctaaattgcc</Exon>
+        <Exon position="2413 - 3730" length="1317">gtgaaaatcctatttataagagtgccgtaacaactgtggtcaatccgaagtatgagggaaaatgagtactgcccgtgcaaatcccacaacactgaatgcaaagtagcaatttccatagtcacagttaggtagctttagggcaatattgccatggttttactcatgtgcaggttttgaaaatgtacaatatgtataatttttaaaatgttttattattttgaaaataatgttgtaattcatgccagggactgacaaaagacttgagacaggatggttactcttgtcagctaaggtcacattgtgcctttttgaccttttcttcctggactattgaaatcaagcttattggattaagtgatatttctatagcgattgaaagggcaatagttaaagtaatgagcatgatgagagtttctgttaatcatgtattaaaactgatttttagctttacaaatatgtcagtttgcagttatgcagaatccaaagtaaatgtcctgctagctagttaaggattgttttaaatctgttattttgctatttgcctgttagacatgactgatgacatatctgaaagacaagtatgttgagagttgctggtgtaaaatacgtttgaaatagttgatctacaaaggccatgggaaaaattcagagagttaggaaggaaaaaccaatagctttaaaacctgtgtgccattttaagagttacttaatgtttggtaacttttatgccttcactttacaaattcaagccttagataaaagaaccgagcaattttctgctaaaaagtccttgatttagcactatttacatacaggccatactttacaaagtatttgctgaatggggaccttttgagttgaatttattttattatttttattttgtttaatgtctggtgctttctgtcacctcttctaatcttttaatgtatttgtttgcaattttggggtaagactttttttatgagtactttttctttgaagttttagcggtcaatttgcctttttaatgaacatgtgaagttatactgtggctatgcaacagctctcacctacgcgagtcttactttgagttagtgccataacagaccactgtatgtttacttctcaccatttgagttgcccatcttgtttcacactagtcacattcttgttttaagtgcctttagttttaacagttcactttttacagtgctatttactgaagttatttattaaatatgcctaaaatacttaaatcggatgtcttgactctgatgtattttatcaggttgtgtgcatgaaatttttatagattaaagaagttgaggaaaagca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_022334" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 142" length="141">cggcccggcggacgtgggcaggagggctggaaaagccggcgctggagcgggaacgggagtagctgcctgggcgccaaaggccgcggcactcccacgcggaccccgaagtccgcaacccggggatgggcccgcggctgcgag</Exon>
+        <Exon position="143 - 249" length="106">ggatcttctctggatcaagcaatggtggtgaaaaatgtttcgcaagggcaaaaaacgacacagtagtagcagttcccaaagtagcgaaatcagtactaagagcaag</Exon>
+        <Exon position="250 - 328" length="78">ctgtggattctagccttgggggtctttcacgatccagcactgtggccagcctcgacacagattccaccaaaagctcag</Exon>
+        <Exon position="329 - 465" length="136">acaaagcaacaataattcagatacctgtgcagaatttcgaataaaatatgttggtgccattgagaaactgaaactctccgagggaaaaggccttgaagggccattagacctgataaattatatagacgttgcccag</Exon>
+        <Exon position="466 - 558" length="92">aagatggaaagttgccttttgttcctccggaggaagaatttattatgggagtttccaagtatggcataaaagtatcaacatcagatcaatat</Exon>
+        <Exon position="559 - 1780" length="1221">aacaagcacaagccatttgcaaggttttatccaccgcttttgactctgtattaacatctgagaaaccctgaatcctgcaatcaagtagaagtcaacttcatctgaaagttcagctgttttcaaactgcaatgctgaaatgttatgcaaataatgaagttatcccttgctctagattttctgaagaaaatggattgtgtaaaatgctgatcatttgtttattaaaatgtgtcctattacacagtgagttaactctcaatgaagtcatctattttctgggctaaaaaacttcatttgtctttttcaacttctaataagcttaacctaagtgtcacagaagcctaggtgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagactagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagactagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagactagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacacacactgaaggcctgaggaagactgaggacatgggctcagtggtggcttcccagtcatggtatcactggcatggacctctgtccggcagaggtgtggactggagaccaggattcatgctggtctggaacagtgacattgccaacttaagacacacaaagcagattttcagaagtgtctggtcaagataacatgctggccaaccacaattcctagagttaagagaaccttaaaagattaccgctcatgctaaaagtatgtaaagatcccatgtacagtatgatagtgtactttttttaaaggactgtcaatatacaaaactttaaagattaaaaacattaaaaataaaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_004763" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 142" length="141">cggcccggcggacgtgggcaggagggctggaaaagccggcgctggagcgggaacgggagtagctgcctgggcgccaaaggccgcggcactcccacgcggaccccgaagtccgcaacccggggatgggcccgcggctgcgag</Exon>
+        <Exon position="143 - 249" length="106">ggatcttctctggatcaagcaatggtggtgaaaaatgtttcgcaagggcaaaaaacgacacagtagtagcagttcccaaagtagcgaaatcagtactaagagcaag</Exon>
+        <Exon position="250 - 328" length="78">ctgtggattctagccttgggggtctttcacgatccagcactgtggccagcctcgacacagattccaccaaaagctcag</Exon>
+        <Exon position="329 - 465" length="136">acaaagcaacaataattcagatacctgtgcagaatttcgaataaaatatgttggtgccattgagaaactgaaactctccgagggaaaaggccttgaagggccattagacctgataaattatatagacgttgcccag</Exon>
+        <Exon position="466 - 558" length="92">aagatggaaagttgccttttgttcctccggaggaagaatttattatgggagtttccaagtatggcataaaagtatcaacatcagatcaatat</Exon>
+        <Exon position="559 - 708" length="149">atgttttgcacaggcatgctctctacttaataatccggatggtgtgttacgatgacggtctgggggcgggaaaaagcttactggctctgaagaccacagatgcaagcaatgaggaatacagcctgtgggtttatcagtgcaacagcctg</Exon>
+        <Exon position="709 - 1930" length="1221">aacaagcacaagccatttgcaaggttttatccaccgcttttgactctgtattaacatctgagaaaccctgaatcctgcaatcaagtagaagtcaacttcatctgaaagttcagctgttttcaaactgcaatgctgaaatgttatgcaaataatgaagttatcccttgctctagattttctgaagaaaatggattgtgtaaaatgctgatcatttgtttattaaaatgtgtcctattacacagtgagttaactctcaatgaagtcatctattttctgggctaaaaaacttcatttgtctttttcaacttctaataagcttaacctaagtgtcacagaagcctaggtgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagactagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagactagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagactagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacaaacacacactgaaggcctgaggaagacgagatgtcacagaggtccactcagtgacacacactgaaggcctgaggaagactgaggacatgggctcagtggtggcttcccagtcatggtatcactggcatggacctctgtccggcagaggtgtggactggagaccaggattcatgctggtctggaacagtgacattgccaacttaagacacacaaagcagattttcagaagtgtctggtcaagataacatgctggccaaccacaattcctagagttaagagaaccttaaaagattaccgctcatgctaaaagtatgtaaagatcccatgtacagtatgatagtgtactttttttaaaggactgtcaatatacaaaactttaaagattaaaaacattaaaaataaaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_002214" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 832" length="831">gcgggtgcttctagggcgctcccagagccgcctccccctgttgctggcatcccgagcttcctcccttgccagccaggacgctgccgacttgtctttgcccgctgctccgcagacggggctgcaaagctgcaactaatggtgttggcctccctgcccacctgtggaagcaactgcgctgattgatgcgccacagacttttttcccctcgacctcgccggcgtcccctcccacagatccagcatcacccagtgaatgtacattagggtggtttcccccccagcttcgggctttgtttgggtttgattgtgtttggctcttcgctaagctgatttatgcagcagaagccccaccggctggagagaaacaaaagctcttttctttgtcccggagcaggctgcggagcccttgcagagccctctctccagtcgccgccggggcccttggccgtcgaaggaggtgcttctcgcggagaccgcgggacccgccgtgccgagccgggagggccgcaggggccctgagatgccgagcggtgcccgggcccgcttacctgcaccgcttgctccgagccgcggggtccgcctgctaggcctgcggaaaacgtcctagcgacactcggcccgcgggccccgaggtgcgcccgggaggcgcgagcccgcgtccggaaggcagtcaggcggcgggcgcggggcgggctgttttgcattatgtgcggctcggccctggctttttttaccgctgcatttgtctgcctgcaaaacgaccggcgaggtcccgcctcgttcctctgggcagcctgggtgttttcacttgttcttggactgggccaaggtg</Exon>
+        <Exon position="833 - 918" length="85">agacaatagatgtgcatcttcaaatgcagcatcctgtgccaggtgccttgcgctgggtccagaatgtggatggtgtgttcaagag</Exon>
+        <Exon position="919 - 1093" length="174">atttcatttcaggtggatcaagaagtgaacgttgtgatattgtttccaatttaataagcaaaggctgctcagttgattcaatagaatacccatctgtgcatgttataatacccactgaaaatgaaattaatacccaggtgacaccaggagaagtgtctatccagctgcgtccag</Exon>
+        <Exon position="1094 - 1340" length="246">agccgaagctaattttatgctgaaagttcatcctctgaagaaatatcctgtggatctttattatcttgttgatgtctcagcatcaatgcacaataatatagaaaaattaaattccgttggaaacgatttatctagaaaaatggcatttttctcccgtgactttcgtcttggatttggctcatacgttgataaaacagtttcaccatacattagcatccaccccgaaaggattcataatcaatgcag</Exon>
+        <Exon position="1341 - 1506" length="165">gactacaatttagactgcatgcctccccatggatacatccatgtgctgtctttgacagagaacatcactgagtttgagaaagcagttcatagacagaagatctctggaaacatagatacaccagaaggaggttttgacgccatgcttcaggcagctgtctgtgaa</Exon>
+        <Exon position="1507 - 1665" length="158">gtcatatcggatggcgaaaagaggctaaaagattgctgctggtgatgacagatcagacgtctcatctcgctcttgatagcaaattggcaggcatagtggtgcccaatgacggaaactgtcatctgaaaaacaacgtctatgtcaaatcgacaaccatg</Exon>
+        <Exon position="1666 - 1761" length="95">aacacccctcactaggccaactttcagagaaattaatagacaacaacattaatgtcatctttgcagttcaaggaaaacaatttcattggtataag</Exon>
+        <Exon position="1762 - 1851" length="89">atcttctacccctcttgccaggcaccattgctggtgaaatagaatcaaaggctgcaaacctcaataatttggtagtggaagcctatcag</Exon>
+        <Exon position="1852 - 1986" length="134">agctcatttcagaagtgaaagttcaggtggaaaaccaggtacaaggcatctattttaacattaccgccatctgtccagatgggtccagaaagccaggcatggaaggatgcagaaacgtgacgagcaatgatgaa</Exon>
+        <Exon position="1987 - 2392" length="405">ttcttttcaatgtaacagttacaatgaaaaaatgtgatgtcacaggaggaaaaaactatgcaataatcaaacctattggttttaatgaaaccgctaaaattcatatacacagaaactgcagctgtcagtgtgaggacaacagaggacctaaaggaaagtgtgtagatgaaacttttctagattccaagtgtttccagtgtgatgagaataaatgtcattttgatgaagatcagttttcttctgagagttgcaagtcacacaaggatcagcctgtttgcagtggtcgaggagtttgtgtttgtgggaaatgttcatgtcacaaaattaagcttggaaaagtgtatggaaaatactgtgaaaaggatgacttttcttgtccatatcaccatggaaatctgtgtgctg</Exon>
+        <Exon position="2393 - 2618" length="225">gcatggagagtgtgaagcaggcagatgccaatgcttcagtggctgggaaggtgatcgatgccagtgcccttcagcagcagcccagcactgtgtcaattcaaagggccaagtgtgcagtggaagaggcacgtgtgtgtgtggaaggtgtgagtgcaccgatcccaggagcatcggccgcttctgtgaacactgccccacctgttatacagcctgcaaggaaaactg</Exon>
+        <Exon position="2619 - 2728" length="109">aattgtatgcaatgccttcaccctcacaatttgtctcaggctatacttgatcagtgcaaaacctcatgtgctctcatggaacaacagcattatgtcgaccaaacttcag</Exon>
+        <Exon position="2729 - 2892" length="163">atgtttctccagcccaagctacttgagaatatttttcatcattttcatagttacattcttgattgggttgcttaaagtcctgatcattagacaggtgatactacaatggaatagtaataaaattaagtcctcatcagattacagagtgtcagcctcaaaaaag</Exon>
+        <Exon position="2893 - 8777" length="5884">ataagttgattctgcaaagtgtttgcacaagagcagtcacctaccgacgtgagaagcctgaagaaataaaaatggatatcagcaaattaaatgctcatgaaactttcaggtgcaacttctaaaaaaagatttttaaacacttaatgggaaactggaattgttaataattgctcctaaagattataattttaaaagtcacaggaggagacaaattgctcacggtcatgccagttgctggttgtacactcgaacgaagactgacaagtatcctcatcatgatgtgactcacatagctgctgactttttcagagaaaaatgtgtcttactactgtttgagactagtgtcgttgtagcactttactgtaatatataacttatttagatcagcatagaatgtagatcctctgaagagcactgattacactttacaggtacctgttatccctacgcttcccagagagaacaatgctgtgagagagtttagcattgtgtcactacaagggtacagtaatccctgcactggacatgtgaggaaaaaaataatctggcaagtatattctaaggttgccaaacacttcaacagttggtggttgaatagacaagaacagctagatgaataaatgattcgtgtttcactctttcaagaggtgaacagatacaaccttaatcttaaaagattattgctttttaaagtgtgtagttttatgcatgtgtgtttatggtttgcttatttttgcaagatggatactaattccagcattctctcctctttgcctttatgttttgttttcttttttacaggataagtttatgtatgtcacagatgactggattaattaagtgctaagttactactgccataaaaaactaataatacaatgtcactttatcagaatactagttttaaaagctgaatgttaataggggacactgtaaagtatcatcaaaacctgaatagcttcattgtgcacaagtgtggagttttgtatcctcttacctggtaaactgaagggattgtttggccatttcatttatcttatcattaattcacaagatagttagaaattctgcctcaagcaaagtaccacattttgaatgttttcttagattttgattgcaagtagatatcagcattttttaaatgaaaagctatattatcttctcccttcaaggcagcctaaggatgttctttcccagaatcactccaacccttcttgccagaattcataaaagtacaaaattggagaatagatgatatcttagaaataagctttttttttttttttttttttttttgagacggagtttcactcttgtcacccaggctgaagtgcaatggcgcaattagggttcactgcaacctctgcctcccgggttcaagcagttctcctgcctcagcctcctgagtagctgggattacaggcatccaccaccgtgcccagctaatttttgtatttttagtagagacggggttttgccatgttggacaggttgatctcaaactcctgacctcaggtgatctaccctcctcggcctcccagagtgttgggattacaggcatgagccaccatgccaggctgctaattctcctttttagtgagttagggaactgagcctcagaaaacttaaacgatttctcagaaaacactcaagtgataaagtggccacattggaaaggagtttttatcttctcattgtcaggccagtgttcattgcacaatatcatgctacctcttgaatctttaaaatattcaattggcaaatgtttttcaatgtgatttactcatgtcttaagtgtatgaggaaagttcaaagcaaaatagaaaggaataattcaaactgaattgtccataatcagcttccagtctttcatgctaatcagcttcttaagagactgaagtatggcatacctacaggggaattccttcgcaccatagcctgtatgaacagtgttccctggagttctccagtgctcagcttgagaccttgatacacgggccatgagccctgtcttccccaatggaaatttatttacacttaccttatccctatggacttagtctgattttattggctaggagtctaacagtcctgtgtggatatacagttttgcccatgacaacaaaggaatctatccgaaatatctttttttttataataaacttccaagatttgctgtcttccagcacttgagttaaagtactagatactgcattttgatgaagactaaccccatctcatattctaccctaaagagaactgaaaaacctataataagttgttctggagccaataaacacagcagctctgttagatgtcctctacagccaagcactttcaatgctaacttgaactgcatttccttcctcaaatgagagattgacataattcagtactgtgagtcacttgtataagaaacctttgatcactaaaaataatgtaaaaattgggtttagtagcctaatacacataacgttcttcttaaaaaggaaaatggatggatgcctgacaaccctccaaaagaaaaaagtgtaagatagccattaagatgatgacaatttttgaaatgaacattatgatatttatgaacaataaacaaatttccgtatggaatgaattatccaaaaagagtataacaaaatgaaatccttaaaaatccagagtttatattttttttataccctcacttgtttgcactaactttatagtggaccaaggctgttaccataggaagggacaaacttccttgtaggcaactcagtgttagacgatgattgtggttatgcttgcaaagtcttgtgcttatcttttttgtttttacttaaaaagctaatttttaaagattgtagggcttgtattttacttgaataattgatatcttcctgtgtaatgatttgtgagatgagaattaatatttgactagttagaattaattaaatggtaagggaacacagggtactcttaggttaaataatgtatgcaaatagagtctattttcaactaatatggccacaggagccttttgagattcattgatattaaacacaattaatgaaattttaaattgttaacagaattgagaacttgaacaacacttttagtactgcagcatttttgtgccctaaagtatgtaatgatttataaatgtgccatacatacactacaacataacatttgctttgttatgcattttatttctctggggacaccattgcactgcagtgcacacgtatttataaacatttgttatatttttggaaacttgctaatatttattaagtcatagacttttctggaggacttaaaaattcactaaaaatctgattatgtcttaaatgttcagtttatctttggtttattaaaataaaaaaaaaatctaagattaaacacagtagatatctctggaggcaattttccaaaactcaacattaaaatttgtggatgcatgagatgcaatccttcaaagaatgaatctgaaatatatttttaatatttacttaatatccactgaagatatctttatgcaagacaagagtcagccatcagacactgaaatatattatgatagattatgaagaattttctctgtagaattatattcttcctggaacctggtagagtagattagactcaaaggctttttcttccttttcttactcctgttttttccactcactcttcccaagagatttcctaaagcttcaagcttaataagcctaatagtgaaaaataactgaatttaatggtataatgaagttcttcatttccagacatctttaattgatcttaaagctcatttgagtctttgcccctgaacaaagacagacccattaaaatctaagaattctaaattttcacaactgtttgagcttcttttcattttgaaggatttggaatatatatgttttcataaaagtatcaagtgaaatatagttacatgggagctcaatcatgtgcagattgcattctgttatgttgactcaatatttaatttacaactatccttatttatattgacctcaagaactccattttatgcaatgcagaccactgagatatagctaacattctttcaaataattttccttttcttttataattcctctatagcaaatttttatgtataactgattatacatatccatatttatatttcattgattccaagacatcactttttcaatttaacatctctgaaattgtgacatttcttgcaactgttggcacttcagatgcagtgtttaaaattatgcttgaataaatattacactaatccaactttacctaaatgtttatgcatctaggcaaattttgttttcttataaagatttgagagcccatttatgacaaaatatgaaggcgaaatttaaggacaactgagtcacgcacaactcaacatggagcctaactgattatcagctcagatcccgcatatcttgagtttacaaaagctctttcaggtccccatttatactttacgtgagtgcgaatgatttcagcaaaccctaacttaactaacaagaatgggtaggtatgtctacgtttcattaacaaatttttattatttttattctattatatgagatccttttatattatcatctcacttttaaacaaaattaactggaaaaatattacatggaactgtcatagttaggttttgcagcatcttacatgtcttgtatcaatggcaggagaaaaatatgataaaaacaatcagtgctgtgaaaaacaactttcttctagagtcctcttactttttattcttctttatcatttgtgggtttttcccccttggctctgatcactttaacttcaagcttatgtaacgactgttataaaactgcatatttaaattatttgaattatatgaaataattgttcagctatctgggcagctgttaatgtaaacctgagagtaataacactactcttttatctacctggaatacttttctgcataaaatttatctttgtaagctaactctattaatcaggtttcttctagcctctgcaacctacttcagttagaattgtctaatactgctctattaatcaggtttctagcctctacaacctacttcagttaaaattgtctaatacagcaatatttaaaaaaaaaacactgcaattgtcaaggatggaaaatgtgtgatttgtgtaaacaatttttaccaactttacattttcctacagataaatgtgaaattttgataagaagtctacgcaatgacaagtatggtacataaattttattaagaatattgagtataaagtactttaattctaaattataagaaaatatacatttgcacatattaatatagaaattcattttgtgtatatttaacatagcttttaaactattttacattagctacttcattatggtttcttgaacttctgaaaaaaattagaaatgtattaaacttatcagtaacataaaaacttattttgtttcacctaacgaatactgcgtttgtaaaaataaatttaatatagaatatatttttaaattaaatatttgaatataaaatagctctaagaaagaagcaaattatcactgaacatatttcttattatttctggctttgaattatacgtaacttaaattgtcttaaatgatacagaatattggagaatatgatactttcacataatatactatgaacctgttcatataactctgattgactactaacttctgttttatgtatttattaaagagctgacactgtagtttgtggtgagatgtttatttttctaacagagcttataacagttaggacaaggcatttaattaatgcatcattctgtttagtagtaggtgttaatcaatatgaaattctctgttttaaaataaaaatgtaaaaatctaagaata</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_000213" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 177" length="176">cgctgcccgcctcgtccccacccccccaacccccgcgcccgccctcggacagtccctgctcgcccgcgcgctgcagccccatctcctagcggcagcccaggcgcggagggagcgagtccgccccgaggtaggtccaggacgggcgcacagcagcagccgaggctggccgggagagg</Exon>
+        <Exon position="178 - 266" length="88">aggaagaggatggcagggccacgccccagcccatgggccaggctgctcctggcagccttgatcagcgtcagcctctctgggaccttgg</Exon>
+        <Exon position="267 - 349" length="82">aaaccgctgcaagaaggccccagtgaagagctgcacggagtgtgtccgtgtggataaggactgcgcctactgcacagacgag</Exon>
+        <Exon position="350 - 451" length="101">tgttcagggaccggcgctgcaacacccaggcggagctgctggccgcgggctgccagcgggagagcatcgtggtcatggagagcagcttccaaatcacagag</Exon>
+        <Exon position="452 - 656" length="204">agacccagattgacaccaccctgcggcgcagccagatgtccccccaaggcctgcgggtccgtctgcggcccggtgaggagcggcattttgagctggaggtgtttgagccactggagagccccgtggacctgtacatcctcatggacttctccaactccatgtccgatgatctggacaacctcaagaagatggggcagaacctgg</Exon>
+        <Exon position="657 - 753" length="96">tcgggtcctgagccagctcaccagcgactacactattggatttggcaagtttgtggacaaagtcagcgtcccgcagacggacatgaggcctgagaa</Exon>
+        <Exon position="754 - 925" length="171">ctgaaggagccctggcccaacagtgacccccccttctccttcaagaacgtcatcagcctgacagaagatgtggatgagttccggaataaactgcagggagagcggatctcaggcaacctggatgctcctgagggcggcttcgatgccatcctgcagacagctgtgtgcacg</Exon>
+        <Exon position="926 - 1189" length="263">gggacattggctggcgcccggacagcacccacctgctggtcttctccaccgagtcagccttccactatgaggctgatggcgccaacgtgctggctggcatcatgagccgcaacgatgaacggtgccacctggacaccacgggcacctacacccagtacaggacacaggactacccgtcggtgcccaccctggtgcgcctgctcgccaagcacaacatcatccccatctttgctgtcaccaactactcctatagctactacgag</Exon>
+        <Exon position="1190 - 1279" length="89">agcttcacacctatttccctgtctcctcactgggggtgctgcaggaggactcgtccaacatcgtggagctgctggaggaggccttcaat</Exon>
+        <Exon position="1280 - 1402" length="122">ggatccgctccaacctggacatccgggccctagacagcccccgaggccttcggacagaggtcacctccaagatgttccagaagacgaggactgggtcctttcacatccggcggggggaagtg</Exon>
+        <Exon position="1403 - 1564" length="161">gtatataccaggtgcagctgcgggcccttgagcacgtggatgggacgcacgtgtgccagctgccggaggaccagaagggcaacatccatctgaaaccttccttctccgacggcctcaagatggacgcgggcatcatctgtgatgtgtgcacctgcgagctg</Exon>
+        <Exon position="1565 - 1641" length="76">aaaaagaggtgcggtcagctcgctgcagcttcaacggagacttcgtgtgcggacagtgtgtgtgcagcgagggctg</Exon>
+        <Exon position="1642 - 1844" length="202">agtggccagacctgcaactgctccaccggctctctgagtgacattcagccctgcctgcgggagggcgaggacaagccgtgctccggccgtggggagtgccagtgcgggcactgtgtgtgctacggcgaaggccgctacgagggtcagttctgcgagtatgacaacttccagtgtccccgcacttccgggttcctctgcaatg</Exon>
+        <Exon position="1845 - 1948" length="103">ccgaggacgctgctccatgggccagtgtgtgtgtgagcctggttggacaggcccaagctgtgactgtcccctcagcaatgccacctgcatcgacagcaatggg</Exon>
+        <Exon position="1949 - 2047" length="98">gcatctgtaatggacgtggccactgtgagtgtggccgctgccactgccaccagcagtcgctctacacggacaccatctgcgagatcaactactcggcg</Exon>
+        <Exon position="2048 - 2177" length="129">tccacccgggcctctgcgaggacctacgctcctgcgtgcagtgccaggcgtggggcaccggcgagaagaaggggcgcacgtgtgaggaatgcaacttcaaggtcaagatggtggacgagcttaagagag</Exon>
+        <Exon position="2178 - 2300" length="122">cgaggaggtggtggtgcgctgctccttccgggacgaggatgacgactgcacctacagctacaccatggaaggtgacggcgcccctgggcccaacagcactgtcctggtgcacaagaagaagg</Exon>
+        <Exon position="2301 - 2407" length="106">ctgccctccgggctccttctggtggctcatccccctgctcctcctcctcctgccgctcctggccctgctactgctgctatgctggaagtactgtgcctgctgcaag</Exon>
+        <Exon position="2408 - 2441" length="33">cctgcctggcacttctcccgtgctgcaaccgag</Exon>
+        <Exon position="2442 - 2633" length="191">tcacatggtgggctttaaggaagaccactacatgctgcgggagaacctgatggcctctgaccacttggacacgcccatgctgcgcagcgggaacctcaagggccgtgacgtggtccgctggaaggtcaccaacaacatgcagcggcctggctttgccactcatgccgccagcatcaaccccacagagctgg</Exon>
+        <Exon position="2634 - 2737" length="103">gccctacgggctgtccttgcgcctggcccgcctttgcaccgagaacctgctgaagcctgacactcgggagtgcgcccagctgcgccaggaggtggaggagaac</Exon>
+        <Exon position="2738 - 2796" length="58">tgaacgaggtctacaggcagatctccggtgtacacaagctccagcagaccaagttccg</Exon>
+        <Exon position="2797 - 2820" length="23">cagcagcccaatgccgggaaaaa</Exon>
+        <Exon position="2821 - 2969" length="148">caagaccacaccattgtggacacagtgctgatggcgccccgctcggccaagccggccctgctgaagcttacagagaagcaggtggaacagagggccttccacgacctcaaggtggcccccggctactacaccctcactgcagaccagg</Exon>
+        <Exon position="2970 - 3149" length="179">cgcccggggcatggtggagttccaggagggcgtggagctggtggacgtacgggtgcccctctttatccggcctgaggatgacgacgagaagcagctgctggtggaggccatcgacgtgcccgcaggcactgccaccctcggccgccgcctggtaaacatcaccatcatcaaggagcaag</Exon>
+        <Exon position="3150 - 3298" length="148">cagagacgtggtgtcctttgagcagcctgagttctcggtcagccgcggggaccaggtggcccgcatccctgtcatccggcgtgtcctggacggcgggaagtcccaggtctcctaccgcacacaggatggcaccgcgcagggcaaccgg</Exon>
+        <Exon position="3299 - 3503" length="204">actacatccccgtggagggtgagctgctgttccagcctggggaggcctggaaagagctgcaggtgaagctcctggagctgcaagaagttgactccctcctgcggggccgccaggtccgccgtttccacgtccagctcagcaaccctaagtttggggcccacctgggccagccccactccaccaccatcatcatcagggacccag</Exon>
+        <Exon position="3504 - 3661" length="157">tgaactggaccggagcttcacgagtcagatgttgtcatcacagccaccccctcacggcgacctgggcgccccgcagaaccccaatgctaaggccgctgggtccaggaagatccatttcaactggctgcccccttctggcaagccaatggggtacagg</Exon>
+        <Exon position="3662 - 3842" length="180">taaagtactggattcagggtgactccgaatccgaagcccacctgctcgacagcaaggtgccctcagtggagctcaccaacctgtacccgtattgcgactatgagatgaaggtgtgcgcctacggggctcagggcgagggaccctacagctccctggtgtcctgccgcacccaccaggaag</Exon>
+        <Exon position="3843 - 3980" length="137">gcccagcgagccagggcgtctggccttcaatgtcgtctcctccacggtgacccagctgagctgggctgagccggctgagaccaacggtgagatcacagcctacgaggtctgctatggcctggtcaacgatgacaacc</Exon>
+        <Exon position="3981 - 4163" length="182">acctattgggcccatgaagaaagtgctggttgacaaccctaagaaccggatgctgcttattgagaaccttcgggagtcccagccctaccgctacacggtgaaggcgcgcaacggggccggctgggggcctgagcgggaggccatcatcaacctggccacccagcccaagaggcccatgtcca</Exon>
+        <Exon position="4164 - 4295" length="131">ccccatcatccctgacatccctatcgtggacgcccagagcggggaggactacgacagcttccttatgtacagcgatgacgttctacgctctccatcgggcagccagaggcccagcgtctccgatgacactg</Exon>
+        <Exon position="4296 - 4505" length="209">ctgcggctggaagttcgagcccctgctgggggaggagctggacctgcggcgcgtcacgtggcggctgcccccggagctcatcccgcgcctgtcggccagcagcgggcgctcctccgacgccgaggcgccccacgggcccccggacgacggcggcgcgggcgggaagggcggcagcctgccccgcagtgcgacacccgggccccccggag</Exon>
+        <Exon position="4506 - 4745" length="239">gcacctggtgaatggccggatggactttgccttcccgggcagcaccaactccctgcacaggatgaccacgaccagtgctgctgcctatggcacccacctgagcccacacgtgccccaccgcgtgctaagcacatcctccaccctcacacgggactacaactcactgacccgctcagaacactcacactcgaccacactgcccagggactactccaccctcacctccgtctcctcccacg</Exon>
+        <Exon position="4746 - 4895" length="149">ctctcgcctgactgctggtgtgcccgacacgcccacccgcctggtgttctctgccctggggcccacatctctcagagtgagctggcaggagccgcggtgcgagcggccgctgcagggctacagtgtggagtaccagctgctgaacggcg</Exon>
+        <Exon position="4896 - 5084" length="188">tgagctgcatcggctcaacatccccaaccctgcccagacctcggtggtggtggaagacctcctgcccaaccactcctacgtgttccgcgtgcgggcccagagccaggaaggctggggccgagagcgtgagggtgtcatcaccattgaatcccaggtgcacccgcagagcccactgtgtcccctgccag</Exon>
+        <Exon position="5085 - 5240" length="155">ctccgccttcactttgagcactcccagtgccccaggcccgctggtgttcactgccctgagcccagactcgctgcagctgagctgggagcggccacggaggcccaatggggatatcgtcggctacctggtgacctgtgagatggcccaaggaggag</Exon>
+        <Exon position="5241 - 5405" length="164">gccagccaccgcattccgggtggatggagacagccccgagagccggctgaccgtgccgggcctcagcgagaacgtgccctacaagttcaaggtgcaggccaggaccactgagggcttcgggccagagcgcgagggcatcatcaccatagagtcccaggatggag</Exon>
+        <Exon position="5406 - 5516" length="110">acccttcccgcagctgggcagccgtgccgggctcttccagcacccgctgcaaagcgagtacagcagcatcaccaccacccacaccagcgccaccgagcccttcctagtgg</Exon>
+        <Exon position="5517 - 5919" length="402">tgggctgaccctgggggcccagcacctggaggcaggcggctccctcacccggcatgtgacccaggagtttgtgagccggacactgaccaccagcggaacccttagcacccacatggaccaacagttcttccaaacttgaccgcaccctgccccacccccgccacgtcccactaggcgtcctcccgactcctctcccggagcctcctcagctactccatccttgcacccctgggggcccagcccacccgcatgcacagagcaggggctaggtgtctcctgggaggcatgaagggggcaaggtccgtcctctgtgggcccaaacctatttgtaaccaaagagctgggagcagcacaaggacccagcctttgttctgcacttaataaatggttttgctactgcta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001005731" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 177" length="176">cgctgcccgcctcgtccccacccccccaacccccgcgcccgccctcggacagtccctgctcgcccgcgcgctgcagccccatctcctagcggcagcccaggcgcggagggagcgagtccgccccgaggtaggtccaggacgggcgcacagcagcagccgaggctggccgggagagg</Exon>
+        <Exon position="178 - 266" length="88">aggaagaggatggcagggccacgccccagcccatgggccaggctgctcctggcagccttgatcagcgtcagcctctctgggaccttgg</Exon>
+        <Exon position="267 - 349" length="82">aaaccgctgcaagaaggccccagtgaagagctgcacggagtgtgtccgtgtggataaggactgcgcctactgcacagacgag</Exon>
+        <Exon position="350 - 451" length="101">tgttcagggaccggcgctgcaacacccaggcggagctgctggccgcgggctgccagcgggagagcatcgtggtcatggagagcagcttccaaatcacagag</Exon>
+        <Exon position="452 - 656" length="204">agacccagattgacaccaccctgcggcgcagccagatgtccccccaaggcctgcgggtccgtctgcggcccggtgaggagcggcattttgagctggaggtgtttgagccactggagagccccgtggacctgtacatcctcatggacttctccaactccatgtccgatgatctggacaacctcaagaagatggggcagaacctgg</Exon>
+        <Exon position="657 - 753" length="96">tcgggtcctgagccagctcaccagcgactacactattggatttggcaagtttgtggacaaagtcagcgtcccgcagacggacatgaggcctgagaa</Exon>
+        <Exon position="754 - 925" length="171">ctgaaggagccctggcccaacagtgacccccccttctccttcaagaacgtcatcagcctgacagaagatgtggatgagttccggaataaactgcagggagagcggatctcaggcaacctggatgctcctgagggcggcttcgatgccatcctgcagacagctgtgtgcacg</Exon>
+        <Exon position="926 - 1189" length="263">gggacattggctggcgcccggacagcacccacctgctggtcttctccaccgagtcagccttccactatgaggctgatggcgccaacgtgctggctggcatcatgagccgcaacgatgaacggtgccacctggacaccacgggcacctacacccagtacaggacacaggactacccgtcggtgcccaccctggtgcgcctgctcgccaagcacaacatcatccccatctttgctgtcaccaactactcctatagctactacgag</Exon>
+        <Exon position="1190 - 1279" length="89">agcttcacacctatttccctgtctcctcactgggggtgctgcaggaggactcgtccaacatcgtggagctgctggaggaggccttcaat</Exon>
+        <Exon position="1280 - 1402" length="122">ggatccgctccaacctggacatccgggccctagacagcccccgaggccttcggacagaggtcacctccaagatgttccagaagacgaggactgggtcctttcacatccggcggggggaagtg</Exon>
+        <Exon position="1403 - 1564" length="161">gtatataccaggtgcagctgcgggcccttgagcacgtggatgggacgcacgtgtgccagctgccggaggaccagaagggcaacatccatctgaaaccttccttctccgacggcctcaagatggacgcgggcatcatctgtgatgtgtgcacctgcgagctg</Exon>
+        <Exon position="1565 - 1641" length="76">aaaaagaggtgcggtcagctcgctgcagcttcaacggagacttcgtgtgcggacagtgtgtgtgcagcgagggctg</Exon>
+        <Exon position="1642 - 1844" length="202">agtggccagacctgcaactgctccaccggctctctgagtgacattcagccctgcctgcgggagggcgaggacaagccgtgctccggccgtggggagtgccagtgcgggcactgtgtgtgctacggcgaaggccgctacgagggtcagttctgcgagtatgacaacttccagtgtccccgcacttccgggttcctctgcaatg</Exon>
+        <Exon position="1845 - 1948" length="103">ccgaggacgctgctccatgggccagtgtgtgtgtgagcctggttggacaggcccaagctgtgactgtcccctcagcaatgccacctgcatcgacagcaatggg</Exon>
+        <Exon position="1949 - 2047" length="98">gcatctgtaatggacgtggccactgtgagtgtggccgctgccactgccaccagcagtcgctctacacggacaccatctgcgagatcaactactcggcg</Exon>
+        <Exon position="2048 - 2177" length="129">tccacccgggcctctgcgaggacctacgctcctgcgtgcagtgccaggcgtggggcaccggcgagaagaaggggcgcacgtgtgaggaatgcaacttcaaggtcaagatggtggacgagcttaagagag</Exon>
+        <Exon position="2178 - 2300" length="122">cgaggaggtggtggtgcgctgctccttccgggacgaggatgacgactgcacctacagctacaccatggaaggtgacggcgcccctgggcccaacagcactgtcctggtgcacaagaagaagg</Exon>
+        <Exon position="2301 - 2407" length="106">ctgccctccgggctccttctggtggctcatccccctgctcctcctcctcctgccgctcctggccctgctactgctgctatgctggaagtactgtgcctgctgcaag</Exon>
+        <Exon position="2408 - 2441" length="33">cctgcctggcacttctcccgtgctgcaaccgag</Exon>
+        <Exon position="2442 - 2633" length="191">tcacatggtgggctttaaggaagaccactacatgctgcgggagaacctgatggcctctgaccacttggacacgcccatgctgcgcagcgggaacctcaagggccgtgacgtggtccgctggaaggtcaccaacaacatgcagcggcctggctttgccactcatgccgccagcatcaaccccacagagctgg</Exon>
+        <Exon position="2634 - 2737" length="103">gccctacgggctgtccttgcgcctggcccgcctttgcaccgagaacctgctgaagcctgacactcgggagtgcgcccagctgcgccaggaggtggaggagaac</Exon>
+        <Exon position="2738 - 2796" length="58">tgaacgaggtctacaggcagatctccggtgtacacaagctccagcagaccaagttccg</Exon>
+        <Exon position="2797 - 2820" length="23">cagcagcccaatgccgggaaaaa</Exon>
+        <Exon position="2821 - 2969" length="148">caagaccacaccattgtggacacagtgctgatggcgccccgctcggccaagccggccctgctgaagcttacagagaagcaggtggaacagagggccttccacgacctcaaggtggcccccggctactacaccctcactgcagaccagg</Exon>
+        <Exon position="2970 - 3149" length="179">cgcccggggcatggtggagttccaggagggcgtggagctggtggacgtacgggtgcccctctttatccggcctgaggatgacgacgagaagcagctgctggtggaggccatcgacgtgcccgcaggcactgccaccctcggccgccgcctggtaaacatcaccatcatcaaggagcaag</Exon>
+        <Exon position="3150 - 3298" length="148">cagagacgtggtgtcctttgagcagcctgagttctcggtcagccgcggggaccaggtggcccgcatccctgtcatccggcgtgtcctggacggcgggaagtcccaggtctcctaccgcacacaggatggcaccgcgcagggcaaccgg</Exon>
+        <Exon position="3299 - 3503" length="204">actacatccccgtggagggtgagctgctgttccagcctggggaggcctggaaagagctgcaggtgaagctcctggagctgcaagaagttgactccctcctgcggggccgccaggtccgccgtttccacgtccagctcagcaaccctaagtttggggcccacctgggccagccccactccaccaccatcatcatcagggacccag</Exon>
+        <Exon position="3504 - 3661" length="157">tgaactggaccggagcttcacgagtcagatgttgtcatcacagccaccccctcacggcgacctgggcgccccgcagaaccccaatgctaaggccgctgggtccaggaagatccatttcaactggctgcccccttctggcaagccaatggggtacagg</Exon>
+        <Exon position="3662 - 3842" length="180">taaagtactggattcagggtgactccgaatccgaagcccacctgctcgacagcaaggtgccctcagtggagctcaccaacctgtacccgtattgcgactatgagatgaaggtgtgcgcctacggggctcagggcgagggaccctacagctccctggtgtcctgccgcacccaccaggaag</Exon>
+        <Exon position="3843 - 3980" length="137">gcccagcgagccagggcgtctggccttcaatgtcgtctcctccacggtgacccagctgagctgggctgagccggctgagaccaacggtgagatcacagcctacgaggtctgctatggcctggtcaacgatgacaacc</Exon>
+        <Exon position="3981 - 4163" length="182">acctattgggcccatgaagaaagtgctggttgacaaccctaagaaccggatgctgcttattgagaaccttcgggagtcccagccctaccgctacacggtgaaggcgcgcaacggggccggctgggggcctgagcgggaggccatcatcaacctggccacccagcccaagaggcccatgtcca</Exon>
+        <Exon position="4164 - 4295" length="131">ccccatcatccctgacatccctatcgtggacgcccagagcggggaggactacgacagcttccttatgtacagcgatgacgttctacgctctccatcgggcagccagaggcccagcgtctccgatgacactg</Exon>
+        <Exon position="4296 - 4535" length="239">gcacctggtgaatggccggatggactttgccttcccgggcagcaccaactccctgcacaggatgaccacgaccagtgctgctgcctatggcacccacctgagcccacacgtgccccaccgcgtgctaagcacatcctccaccctcacacgggactacaactcactgacccgctcagaacactcacactcgaccacactgcccagggactactccaccctcacctccgtctcctcccacg</Exon>
+        <Exon position="4536 - 4685" length="149">ctctcgcctgactgctggtgtgcccgacacgcccacccgcctggtgttctctgccctggggcccacatctctcagagtgagctggcaggagccgcggtgcgagcggccgctgcagggctacagtgtggagtaccagctgctgaacggcg</Exon>
+        <Exon position="4686 - 4874" length="188">tgagctgcatcggctcaacatccccaaccctgcccagacctcggtggtggtggaagacctcctgcccaaccactcctacgtgttccgcgtgcgggcccagagccaggaaggctggggccgagagcgtgagggtgtcatcaccattgaatcccaggtgcacccgcagagcccactgtgtcccctgccag</Exon>
+        <Exon position="4875 - 5030" length="155">ctccgccttcactttgagcactcccagtgccccaggcccgctggtgttcactgccctgagcccagactcgctgcagctgagctgggagcggccacggaggcccaatggggatatcgtcggctacctggtgacctgtgagatggcccaaggaggag</Exon>
+        <Exon position="5031 - 5195" length="164">gccagccaccgcattccgggtggatggagacagccccgagagccggctgaccgtgccgggcctcagcgagaacgtgccctacaagttcaaggtgcaggccaggaccactgagggcttcgggccagagcgcgagggcatcatcaccatagagtcccaggatggag</Exon>
+        <Exon position="5196 - 5306" length="110">acccttcccgcagctgggcagccgtgccgggctcttccagcacccgctgcaaagcgagtacagcagcatcaccaccacccacaccagcgccaccgagcccttcctagtgg</Exon>
+        <Exon position="5307 - 5709" length="402">tgggctgaccctgggggcccagcacctggaggcaggcggctccctcacccggcatgtgacccaggagtttgtgagccggacactgaccaccagcggaacccttagcacccacatggaccaacagttcttccaaacttgaccgcaccctgccccacccccgccacgtcccactaggcgtcctcccgactcctctcccggagcctcctcagctactccatccttgcacccctgggggcccagcccacccgcatgcacagagcaggggctaggtgtctcctgggaggcatgaagggggcaaggtccgtcctctgtgggcccaaacctatttgtaaccaaagagctgggagcagcacaaggacccagcctttgttctgcacttaataaatggttttgctactgcta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_001005619" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 87" length="86">gaagaggatggcagggccacgccccagcccatgggccaggctgctcctggcagccttgatcagcgtcagcctctctgggaccttgg</Exon>
+        <Exon position="88 - 170" length="82">aaaccgctgcaagaaggccccagtgaagagctgcacggagtgtgtccgtgtggataaggactgcgcctactgcacagacgag</Exon>
+        <Exon position="171 - 272" length="101">tgttcagggaccggcgctgcaacacccaggcggagctgctggccgcgggctgccagcgggagagcatcgtggtcatggagagcagcttccaaatcacagag</Exon>
+        <Exon position="273 - 477" length="204">agacccagattgacaccaccctgcggcgcagccagatgtccccccaaggcctgcgggtccgtctgcggcccggtgaggagcggcattttgagctggaggtgtttgagccactggagagccccgtggacctgtacatcctcatggacttctccaactccatgtccgatgatctggacaacctcaagaagatggggcagaacctgg</Exon>
+        <Exon position="478 - 574" length="96">tcgggtcctgagccagctcaccagcgactacactattggatttggcaagtttgtggacaaagtcagcgtcccgcagacggacatgaggcctgagaa</Exon>
+        <Exon position="575 - 746" length="171">ctgaaggagccctggcccaacagtgacccccccttctccttcaagaacgtcatcagcctgacagaagatgtggatgagttccggaataaactgcagggagagcggatctcaggcaacctggatgctcctgagggcggcttcgatgccatcctgcagacagctgtgtgcacg</Exon>
+        <Exon position="747 - 1010" length="263">gggacattggctggcgcccggacagcacccacctgctggtcttctccaccgagtcagccttccactatgaggctgatggcgccaacgtgctggctggcatcatgagccgcaacgatgaacggtgccacctggacaccacgggcacctacacccagtacaggacacaggactacccgtcggtgcccaccctggtgcgcctgctcgccaagcacaacatcatccccatctttgctgtcaccaactactcctatagctactacgag</Exon>
+        <Exon position="1011 - 1100" length="89">agcttcacacctatttccctgtctcctcactgggggtgctgcaggaggactcgtccaacatcgtggagctgctggaggaggccttcaat</Exon>
+        <Exon position="1101 - 1223" length="122">ggatccgctccaacctggacatccgggccctagacagcccccgaggccttcggacagaggtcacctccaagatgttccagaagacgaggactgggtcctttcacatccggcggggggaagtg</Exon>
+        <Exon position="1224 - 1385" length="161">gtatataccaggtgcagctgcgggcccttgagcacgtggatgggacgcacgtgtgccagctgccggaggaccagaagggcaacatccatctgaaaccttccttctccgacggcctcaagatggacgcgggcatcatctgtgatgtgtgcacctgcgagctg</Exon>
+        <Exon position="1386 - 1462" length="76">aaaaagaggtgcggtcagctcgctgcagcttcaacggagacttcgtgtgcggacagtgtgtgtgcagcgagggctg</Exon>
+        <Exon position="1463 - 1665" length="202">agtggccagacctgcaactgctccaccggctctctgagtgacattcagccctgcctgcgggagggcgaggacaagccgtgctccggccgtggggagtgccagtgcgggcactgtgtgtgctacggcgaaggccgctacgagggtcagttctgcgagtatgacaacttccagtgtccccgcacttccgggttcctctgcaatg</Exon>
+        <Exon position="1666 - 1769" length="103">ccgaggacgctgctccatgggccagtgtgtgtgtgagcctggttggacaggcccaagctgtgactgtcccctcagcaatgccacctgcatcgacagcaatggg</Exon>
+        <Exon position="1770 - 1868" length="98">gcatctgtaatggacgtggccactgtgagtgtggccgctgccactgccaccagcagtcgctctacacggacaccatctgcgagatcaactactcggcg</Exon>
+        <Exon position="1869 - 1998" length="129">tccacccgggcctctgcgaggacctacgctcctgcgtgcagtgccaggcgtggggcaccggcgagaagaaggggcgcacgtgtgaggaatgcaacttcaaggtcaagatggtggacgagcttaagagag</Exon>
+        <Exon position="1999 - 2121" length="122">cgaggaggtggtggtgcgctgctccttccgggacgaggatgacgactgcacctacagctacaccatggaaggtgacggcgcccctgggcccaacagcactgtcctggtgcacaagaagaagg</Exon>
+        <Exon position="2122 - 2228" length="106">ctgccctccgggctccttctggtggctcatccccctgctcctcctcctcctgccgctcctggccctgctactgctgctatgctggaagtactgtgcctgctgcaag</Exon>
+        <Exon position="2229 - 2262" length="33">cctgcctggcacttctcccgtgctgcaaccgag</Exon>
+        <Exon position="2263 - 2454" length="191">tcacatggtgggctttaaggaagaccactacatgctgcgggagaacctgatggcctctgaccacttggacacgcccatgctgcgcagcgggaacctcaagggccgtgacgtggtccgctggaaggtcaccaacaacatgcagcggcctggctttgccactcatgccgccagcatcaaccccacagagctgg</Exon>
+        <Exon position="2455 - 2558" length="103">gccctacgggctgtccttgcgcctggcccgcctttgcaccgagaacctgctgaagcctgacactcgggagtgcgcccagctgcgccaggaggtggaggagaac</Exon>
+        <Exon position="2559 - 2617" length="58">tgaacgaggtctacaggcagatctccggtgtacacaagctccagcagaccaagttccg</Exon>
+        <Exon position="2618 - 2641" length="23">cagcagcccaatgccgggaaaaa</Exon>
+        <Exon position="2642 - 2790" length="148">caagaccacaccattgtggacacagtgctgatggcgccccgctcggccaagccggccctgctgaagcttacagagaagcaggtggaacagagggccttccacgacctcaaggtggcccccggctactacaccctcactgcagaccagg</Exon>
+        <Exon position="2791 - 2970" length="179">cgcccggggcatggtggagttccaggagggcgtggagctggtggacgtacgggtgcccctctttatccggcctgaggatgacgacgagaagcagctgctggtggaggccatcgacgtgcccgcaggcactgccaccctcggccgccgcctggtaaacatcaccatcatcaaggagcaag</Exon>
+        <Exon position="2971 - 3119" length="148">cagagacgtggtgtcctttgagcagcctgagttctcggtcagccgcggggaccaggtggcccgcatccctgtcatccggcgtgtcctggacggcgggaagtcccaggtctcctaccgcacacaggatggcaccgcgcagggcaaccgg</Exon>
+        <Exon position="3120 - 3324" length="204">actacatccccgtggagggtgagctgctgttccagcctggggaggcctggaaagagctgcaggtgaagctcctggagctgcaagaagttgactccctcctgcggggccgccaggtccgccgtttccacgtccagctcagcaaccctaagtttggggcccacctgggccagccccactccaccaccatcatcatcagggacccag</Exon>
+        <Exon position="3325 - 3482" length="157">tgaactggaccggagcttcacgagtcagatgttgtcatcacagccaccccctcacggcgacctgggcgccccgcagaaccccaatgctaaggccgctgggtccaggaagatccatttcaactggctgcccccttctggcaagccaatggggtacagg</Exon>
+        <Exon position="3483 - 3663" length="180">taaagtactggattcagggtgactccgaatccgaagcccacctgctcgacagcaaggtgccctcagtggagctcaccaacctgtacccgtattgcgactatgagatgaaggtgtgcgcctacggggctcagggcgagggaccctacagctccctggtgtcctgccgcacccaccaggaag</Exon>
+        <Exon position="3664 - 3801" length="137">gcccagcgagccagggcgtctggccttcaatgtcgtctcctccacggtgacccagctgagctgggctgagccggctgagaccaacggtgagatcacagcctacgaggtctgctatggcctggtcaacgatgacaacc</Exon>
+        <Exon position="3802 - 3984" length="182">acctattgggcccatgaagaaagtgctggttgacaaccctaagaaccggatgctgcttattgagaaccttcgggagtcccagccctaccgctacacggtgaaggcgcgcaacggggccggctgggggcctgagcgggaggccatcatcaacctggccacccagcccaagaggcccatgtcca</Exon>
+        <Exon position="3985 - 4116" length="131">ccccatcatccctgacatccctatcgtggacgcccagagcggggaggactacgacagcttccttatgtacagcgatgacgttctacgctctccatcgggcagccagaggcccagcgtctccgatgacactg</Exon>
+        <Exon position="4117 - 4356" length="239">gcacctggtgaatggccggatggactttgccttcccgggcagcaccaactccctgcacaggatgaccacgaccagtgctgctgcctatggcacccacctgagcccacacgtgccccaccgcgtgctaagcacatcctccaccctcacacgggactacaactcactgacccgctcagaacactcacactcgaccacactgcccagggactactccaccctcacctccgtctcctcccacg</Exon>
+        <Exon position="4357 - 4515" length="158">cctccctcccatctgggaacacgggaggagcaggcttccgctgtcctgggccctggggtcccggagtcgggctcagatgaaagggttccccccttccaggggcccacgagactctataatcctggctgggaggccagcagcgccctcctggggcccag</Exon>
+        <Exon position="4516 - 4665" length="149">ctctcgcctgactgctggtgtgcccgacacgcccacccgcctggtgttctctgccctggggcccacatctctcagagtgagctggcaggagccgcggtgcgagcggccgctgcagggctacagtgtggagtaccagctgctgaacggcg</Exon>
+        <Exon position="4666 - 4854" length="188">tgagctgcatcggctcaacatccccaaccctgcccagacctcggtggtggtggaagacctcctgcccaaccactcctacgtgttccgcgtgcgggcccagagccaggaaggctggggccgagagcgtgagggtgtcatcaccattgaatcccaggtgcacccgcagagcccactgtgtcccctgccag</Exon>
+        <Exon position="4855 - 5010" length="155">ctccgccttcactttgagcactcccagtgccccaggcccgctggtgttcactgccctgagcccagactcgctgcagctgagctgggagcggccacggaggcccaatggggatatcgtcggctacctggtgacctgtgagatggcccaaggaggag</Exon>
+        <Exon position="5011 - 5175" length="164">gccagccaccgcattccgggtggatggagacagccccgagagccggctgaccgtgccgggcctcagcgagaacgtgccctacaagttcaaggtgcaggccaggaccactgagggcttcgggccagagcgcgagggcatcatcaccatagagtcccaggatggag</Exon>
+        <Exon position="5176 - 5286" length="110">acccttcccgcagctgggcagccgtgccgggctcttccagcacccgctgcaaagcgagtacagcagcatcaccaccacccacaccagcgccaccgagcccttcctagtgg</Exon>
+        <Exon position="5287 - 5689" length="402">tgggctgaccctgggggcccagcacctggaggcaggcggctccctcacccggcatgtgacccaggagtttgtgagccggacactgaccaccagcggaacccttagcacccacatggaccaacagttcttccaaacttgaccgcaccctgccccacccccgccacgtcccactaggcgtcctcccgactcctctcccggagcctcctcagctactccatccttgcacccctgggggcccagcccacccgcatgcacagagcaggggctaggtgtctcctgggaggcatgaagggggcaaggtccgtcctctgtgggcccaaacctatttgtaaccaaagagctgggagcagcacaaggacccagcctttgttctgcacttaataaatggttttgctactgcta</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_000212" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 99" length="98">gccgcgggaggcggacgagatgcgagcgcggccgcggccccggccgctctgggcgactgtgctggcgctgggggcgctggcgggcgttggcgtaggag</Exon>
+        <Exon position="100 - 185" length="85">gcccaacatctgtaccacgcgaggtgtgagctcctgccagcagtgcctggctgtgagccccatgtgtgcctggtgctctgatgag</Exon>
+        <Exon position="186 - 381" length="195">ccctgcctctgggctcacctcgctgtgacctgaaggagaatctgctgaaggataactgtgccccagaatccatcgagttcccagtgagtgaggcccgagtactagaggacaggcccctcagcgacaagggctctggagacagctcccaggtcactcaagtcagtccccagaggattgcactccggctccggccag</Exon>
+        <Exon position="382 - 634" length="252">tgattcgaagaatttctccatccaagtgcggcaggtggaggattaccctgtggacatctactacttgatggacctgtcttactccatgaaggatgatctgtggagcatccagaacctgggtaccaagctggccacccagatgcgaaagctcaccagtaacctgcggattggcttcggggcatttgtggacaagcctgtgtcaccatacatgtatatctccccaccagaggccctcgaaaacccctgctatga</Exon>
+        <Exon position="635 - 797" length="162">atgaagaccacctgcttgcccatgtttggctacaaacacgtgctgacgctaactgaccaggtgacccgcttcaatgaggaagtgaagaagcagagtgtgtcacggaaccgagatgccccagagggtggctttgatgccatcatgcaggctacagtctgtgat</Exon>
+        <Exon position="798 - 959" length="161">aaaagattggctggaggaatgatgcatcccacttgctggtgtttaccactgatgccaagactcatatagcattggacggaaggctggcaggcattgtccagcctaatgacgggcagtgtcatgttggtagtgacaatcattactctgcctccactaccatg</Exon>
+        <Exon position="960 - 1055" length="95">attatccctctttggggctgatgactgagaagctatcccagaaaaacatcaatttgatctttgcagtgactgaaaatgtagtcaatctctatcag</Exon>
+        <Exon position="1056 - 1145" length="89">actatagtgagctcatcccagggaccacagttggggttctgtccatggattccagcaatgtcctccagctcattgttgatgcttatggg</Exon>
+        <Exon position="1146 - 1280" length="134">aaatccgttctaaagtagagctggaagtgcgtgacctccctgaagagttgtctctatccttcaatgccacctgcctcaacaatgaggtcatccctggcctcaagtcttgtatgggactcaagattggagacacg</Exon>
+        <Exon position="1281 - 1710" length="429">tgagcttcagcattgaggccaaggtgcgaggctgtccccaggagaaggagaagtcctttaccataaagcccgtgggcttcaaggacagcctgatcgtccaggtcacctttgattgtgactgtgcctgccaggcccaagctgaacctaatagccatcgctgcaacaatggcaatgggacctttgagtgtggggtatgccgttgtgggcctggctggctgggatcccagtgtgagtgctcagaggaggactatcgcccttcccagcaggacgaatgcagcccccgggagggtcagcccgtctgcagccagcggggcgagtgcctctgtggtcaatgtgtctgccacagcagtgactttggcaagatcacgggcaagtactgcgagtgtgacgacttctcctgtgtccgctacaagggggagatgtgctcag</Exon>
+        <Exon position="1711 - 1933" length="222">ccatggccagtgcagctgtggggactgcctgtgtgactccgactggaccggctactactgcaactgtaccacgcgtactgacacctgcatgtccagcaatgggctgctgtgcagcggccgcggcaagtgtgaatgtggcagctgtgtctgtatccagccgggctcctatggggacacctgtgagaagtgccccacctgcccagatgcctgcacctttaagaa</Exon>
+        <Exon position="1934 - 2034" length="100">gaatgtgtggagtgtaagaagtttgaccggggagccctacatgacgaaaatacctgcaaccgttactgccgtgacgagattgagtcagtgaaagagctta</Exon>
+        <Exon position="2035 - 2154" length="119">ggacactggcaaggatgcagtgaattgtacctataagaatgaggatgactgtgtcgtcagattccagtactatgaagattctagtggaaagtccatcctgtatgtggtagaagagccag</Exon>
+        <Exon position="2155 - 2321" length="166">gtgtcccaagggccctgacatcctggtggtcctgctctcagtgatgggggccattctgctcattggccttgccgccctgctcatctggaaactcctcatcaccatccacgaccgaaaagaattcgctaaatttgaggaagaacgcgccagagcaaaatgggacaca</Exon>
+        <Exon position="2322 - 4894" length="2572">ccaacaacccactgtataaagaggccacgtctaccttcaccaatatcacgtaccggggcacttaatgataagcagtcatcctcagatcattatcagcctgtgccacgattgcaggagtccctgccatcatgtttacagaggacagtatttgtggggagggatttggggctcagagtggggtaggttgggagaatgtcagtatgtggaagtgtgggtctgtgtgtgtgtatgtgggggtctgtgtgtttatgtgtgtgtgttgtgtgtgggagtgtgtaatttaaaattgtgatgtgtcctgataagctgagctccttagcctttgtcccagaatgcctcctgcagggattcttcctgcttagcttgagggtgactatggagctgagcaggtgttcttcattacctcagtgagaagccagctttcctcatcaggccattgtccctgaagagaagggcagggctgaggcctctcattccagaggaagggacaccaagccttggctctaccctgagttcataaatttatggttctcaggcctgactctcagcagctatggtaggaactgctgggcttggcagcccgggtcatctgtacctctgcctcctttcccctccctcaggccgaaggaggagtcagggagagctgaactattagagctgcctgtgccttttgccatcccctcaacccagctatggttctctcgcaagggaagtccttgcaagctaattctttgacctgttgggagtgaggatgtctgggccactcaggggtcattcatggcctgggggatgtaccagcatctcccagttcataatcacaacccttcagatttgccttattggcagctctactctggaggtttgtttagaagaagtgtgtcacccttaggccagcaccatctctttacctcctaattccacaccctcactgctgtagacatttgctatgagctggggatgtctctcatgaccaaatgcttttcctcaaagggagagagtgctattgtagagccagaggtctggccctatgcttccggcctcctgtccctcatccatagcacctccacatacctggccctgtgccttggtgtgctgtatccatccatggggctgattgtatttaccttctacctcttggctgccttgtgaaggaattattcccatgagttggctgggaataagtgccaggatggaatgatgggtcagttgtatcagcacgtgtggcctgttcttctatgggttggacaacctcattttaactcagtctttaatctgagaggccacagtgcaattttattttatttttctcatgatgaggttttcttaacttaaaagaacatgtatataaacatgcttgcattatatttgtaaatttatgtgatggcaaagaaggagagcataggaaaccacacagacttgggcagggtacagacactcccacttggcatcattcacagcaagtcactggccagtggctggatctgtgaggggctctctcatgatagaaggctatggggatagatgtgtggacacattggacctttcctgaggaagagggactgttcttttgtcccagaaaagcagtggctccattggtgttgacatacatccaacattaaaagccacccccaaatgcccaagaaaaaaagaaagacttatcaacatttgttccatgagcagaaaactggagctctggcctcagtgttacagctaaataatctttaattaaggcaagtcactttcttcttcttaaagctgttttctagtttgagaaatgatgggattttagcagccagtcttgaaggtctctttcagtatcaacattctaagatgctgggacttactgtgtcatcaaatgtgcggttaagattctctgggatattgatactgtttgtgtttttagttgggagatctgagagacctggctttggcaagagcagatgtcattccatatcacctttctcaatgaaagtctcattctatcctctctccaaacccgttttccaacatttgttaatagttacgtctctcctgatgtagcacttaagcttcatttagttattatttctttcttcactttgcacacatttgcatccacatattagggaagaggaatccataagtagctgaaatatctattctgtattattgtgttaacattgagaataagccttggaattagatatggggcaatgactgagccctgtctcacccatggattactccttactgtagggaatggcagtatggtagagggataaatagggggcggggagggatagtcatggatccaagaagtccttagaaatagtggcagggaacaggtgtggaagctcatgcctgtaattataaccttcagctactaagacaggtgtggtggctcacgcctgtgattataatcttcagttactaagacagagtccatgagagtgttaatgggacattttctttagataagatgttttatatgaagaaactgtatcaaagggggaagaaaatgtatttaacaggtgaatcaaatcaggaatcttgtctgagctactggaatgaagttcacaggtcttgaagacca</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="XM_006722726" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006722725" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011524752" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005257312" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006721870" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011524751" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006721868" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005257311" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006721867" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005257309" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006721866" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005254100" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006719376" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005268852" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005268851" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011515396" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011515395" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011515394" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011515393" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011515392" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006713630" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005247436" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246189" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246188" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246187" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006711903" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246184" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246185" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011510416" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246186" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005246183" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011541131" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_011541130" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006710515" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006710514" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_006724001" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="XM_005252448" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC143738" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC143329" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC143742" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC127667" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC127666" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC126411" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC121178" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC118916" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC113901" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC109238" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC101575" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC093637" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC021077" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC005861" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC009929" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC006541" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC036788" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC020057" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC012264" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="NM_001289117" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 76" length="75">tggccctgacctcgttggaaaacgaagctccccgcagggtcccggcctctagggctgctgtgcgggcgggggtgg</Exon>
+        <Exon position="77 - 316" length="239">ctggagctatttccattcggcggcgggaacaggtgccggcgcctccgccccatccccaggggccgcctcccccggggcggcctccaggctgccgagacctataaaggcgccaggttttctcaatgaagccgggacgcactccggagcgcactgcgtggtcgcaccctacccgggctgccttggaagtcgtccccgccgcccctccgcaccggcatgaagctcatcgtgggcatcggagg</Exon>
+        <Exon position="317 - 407" length="90">atgaccaacggcggcaagaccacgctgaccaacagcctgctcagagccctgcccaactgctgcgtgatccatcaggatgacttcttcaag</Exon>
+        <Exon position="408 - 471" length="63">ctcctctgtttcagccccaagaccaaatagcagttggggaagacggcttcaaacagtgggacg</Exon>
+        <Exon position="472 - 628" length="156">gctggagtctctggacatggaggccatgctggacaccgtgcaggcctggctgagcagcccgcagaagtttgcccgtgcccacggggtcagcgtccagccagaggcctcggacacccacatcctcctcctggaaggcttcctgctctacagctacaa</Exon>
+        <Exon position="629 - 700" length="71">cccctggtggacttgtacagccgccggtacttcctgaccgtcccgtatgaagagtgcaagtggaggagaag</Exon>
+        <Exon position="701 - 807" length="106">acccgcaactacacagtccctgatccccccggcctcttcgatggccacgtgtggcccatgtaccagaagtataggcaggagatggaggccaacggtgtggaagtgg</Exon>
+        <Exon position="808 - 1141" length="333">ctacctggacggcatgaagtcccgagaggagctcttccgtgaagtcctggaagacattcagaactcgctgctgaaccgctcccaggaatcagccccctccccggctcgcccagccaggacacagggacccggacgcggatgcggccacagaacggccaggcctgcagcgtcccagcaggacagcatgtgagcgtttccctatgggggtgtctgtacgtaggagagtggaggccccactcccagttgggcgtcccggagctcagggactgagccccaagacgcctctgtaacctcgctgcagcttcagtagtaaactgggtcctgtttttttaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="NM_170678" organism="Homo sapiens">
+      <Exons>
+        <Exon position="1 - 76" length="75">tggccctgacctcgttggaaaacgaagctccccgcagggtcccggcctctagggctgctgtgcgggcgggggtgg</Exon>
+        <Exon position="77 - 316" length="239">ctggagctatttccattcggcggcgggaacaggtgccggcgcctccgccccatccccaggggccgcctcccccggggcggcctccaggctgccgagacctataaaggcgccaggttttctcaatgaagccgggacgcactccggagcgcactgcgtggtcgcaccctacccgggctgccttggaagtcgtccccgccgcccctccgcaccggcatgaagctcatcgtgggcatcggagg</Exon>
+        <Exon position="317 - 407" length="90">atgaccaacggcggcaagaccacgctgaccaacagcctgctcagagccctgcccaactgctgcgtgatccatcaggatgacttcttcaag</Exon>
+        <Exon position="408 - 456" length="48">cccaagaccaaatagcagttggggaagacggcttcaaacagtgggacg</Exon>
+        <Exon position="457 - 613" length="156">gctggagtctctggacatggaggccatgctggacaccgtgcaggcctggctgagcagcccgcagaagtttgcccgtgcccacggggtcagcgtccagccagaggcctcggacacccacatcctcctcctggaaggcttcctgctctacagctacaa</Exon>
+        <Exon position="614 - 685" length="71">cccctggtggacttgtacagccgccggtacttcctgaccgtcccgtatgaagagtgcaagtggaggagaag</Exon>
+        <Exon position="686 - 792" length="106">acccgcaactacacagtccctgatccccccggcctcttcgatggccacgtgtggcccatgtaccagaagtataggcaggagatggaggccaacggtgtggaagtgg</Exon>
+        <Exon position="793 - 1126" length="333">ctacctggacggcatgaagtcccgagaggagctcttccgtgaagtcctggaagacattcagaactcgctgctgaaccgctcccaggaatcagccccctccccggctcgcccagccaggacacagggacccggacgcggatgcggccacagaacggccaggcctgcagcgtcccagcaggacagcatgtgagcgtttccctatgggggtgtctgtacgtaggagagtggaggccccactcccagttgggcgtcccggagctcagggactgagccccaagacgcctctgtaacctcgctgcagcttcagtagtaaactgggtcctgtttttttaa</Exon>
+      </Exons>
+    </Sequence>
+    <Sequence accNr="KC120778" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="KC120777" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC002630" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC015916" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="BC014385" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="M34189" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="M84237" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="M20311" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="M62880" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="M68892" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="J05633" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="M35011" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="J02703" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="AF072752" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="AF011375" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="CR457006" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="CR456764" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+    <Sequence accNr="AF401207" organism="Homo sapiens">
+      <Exons />
+    </Sequence>
+  </Sequences>
+</output>

@@ -74,7 +74,11 @@ public class OrthologAlign {
         current = new Element("Alignement");
         current.setAttribute("count", String.valueOf(this.sequences.size()));
         current.setAttribute("method", "clustalw");
-        current.setText(this.profile.toString());
+        if (this.profile != null) {
+            current.setText(this.profile.toString());
+        } else {
+            current.setText("Alignement not done");
+        }
         root.addContent(current);
         Element rtSeq = new Element("Sequences");
         for (Sequence seq : this.sequences) {

@@ -19,6 +19,14 @@ public class Exon {
     public String getExonSequence(){
         return sequence.getSeqRaw().substring(start, stop);
     }
+
+    public Exon(int start, int stop, int length, Sequence sequence) {
+        this.start = start;
+        this.stop = stop;
+        this.length = length;
+        this.sequence = sequence;
+    }
+    
     
     
 }
