@@ -18,4 +18,10 @@ public class Organism {
         this.name = name;
         this.taxonId = taxonId;
     }
+
+    public String getName() {
+        return name;
+    }
+    
+    
 }

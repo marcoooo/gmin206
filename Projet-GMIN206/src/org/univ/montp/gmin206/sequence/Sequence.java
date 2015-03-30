@@ -4,7 +4,8 @@
  */
 package org.univ.montp.gmin206.sequence;
 
-import org.univ.montp.gmin206.sequence.Organism;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Basic Sequence description
@@ -48,7 +49,6 @@ abstract public class Sequence {
         return seqRaw;
     }
 
-
     public void setAccessionNumber(String accessionNumber) {
         this.accessionNumber = accessionNumber;
     }
@@ -63,6 +63,14 @@ abstract public class Sequence {
 
     public void setSeqRaw(String seqRaw) {
         this.seqRaw = seqRaw;
+    }
+
+    public String getExonPosition() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public ArrayList<Exon> getExons() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 
