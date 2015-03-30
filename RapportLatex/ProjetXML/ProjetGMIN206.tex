@@ -1,0 +1,174 @@
+\documentclass[12pt]{report}
+\usepackage[francais]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[francais]{babel}\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tikz-uml}
+\usepackage{color}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usetikzlibrary{arrows}
+\usepackage{placeins}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{csquotes}
+\usepackage[final]{pdfpages} 
+
+\usepackage{index}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+
+\makeindex % index gnral
+\newindex{env}{enx}{end}{Environnements}
+\newindex{ext}{exx}{exd}{Extensions}
+\newindex{cmm}{cmx}{cmd}{Commandes}
+\newcommand{\commande}[1]
+{\texttt{\textbackslash #1}}
+\newcommand{\indexcmm}[1]
+{\index[cmm]{#1@\commande{#1}}} 
+
+\geometry{hmargin=2.5cm,vmargin=4cm}
+\geometry{a4paper}
+
+\pagestyle{fancy}
+
+\setlength{\columnsep}{1.5cm}
+
+
+%%%%%%
+\newcommand*\logoUM{\includegraphics[height=50pt]{../logo/UM.png}}
+\newcommand*\logoTICS{\includegraphics[height=50pt]{../logo/TICS.jpg}}
+%informations du document
+
+\makeatletter
+\def\clap#1{\hbox to 0pt{\hss #1\hss}}%
+\def\ligne#1{%
+\hbox to \hsize{%
+\vbox{\centering #1}}}%
+\def\haut#1#2#3{%
+\hbox to \hsize{%
+\rlap{\vtop{\raggedright #1}}%
+\hss
+\clap{\vtop{\centering #2}}%
+\hss
+\llap{\vtop{\raggedleft #3}}}}%
+\def\bas#1#2#3{%
+\hbox to \hsize{%
+\rlap{\vbox{\raggedright #1}}%
+\hss
+\clap{\vbox{\centering #2}}%
+\hss
+\llap{\vbox{\raggedleft #3}}}}%
+\def\maketitle{%
+\thispagestyle{empty}\vbox to \vsize{%
+\haut{}{\@blurb}{}
+\vfill
+\vspace{1cm}
+\begin{flushleft}
+\usefont{OT1}{ptm}{m}{n}
+\huge \@title
+\end{flushleft}
+\par
+\hrule height 0.5pt
+\par
+\begin{flushright}
+\usefont{OT1}{phv}{m}{n}
+\Large \@author
+\par
+\end{flushright}
+\vspace{1cm}
+\vfill
+\vfill
+\bas{}{\@logo}{}
+}%
+\cleardoublepage
+}
+\def\date#1{\def\@date{#1}}
+\def\author#1{\def\@author{#1}}
+\def\title#1{\def\@title{#1}}
+\def\logo#1{\def\@logo{#1}}
+\def\blurb#1{\def\@blurb{#1}}
+
+\makeatother
+
+\title{GMIN206 - Projet : TP XML}
+\author{\textsc{AGRET} Clément \& \textsc{CHAKIACHVILI} Marc}
+\logo{\logoUM \hfill \logoTICS}
+\blurb{%
+\textbf{Master : STIC pour la Santé\\
+Spécialité : << Bioinformatique, Connaissances, Données >>\\}
+}%
+
+
+\begin{document}
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+\section*{Présentation du projet}
+Le projet consiste à realiser un programme en java qui récupere les fichiers XML d'un gène orthologue d'une base de donées dans different formats depuis le NCBI. Ce programme doit être capable de manipuler ces fichiers, effectuer quelques opérations sur leurs infos contenues et créer des informations qui ne sont pas accessible, ou proposer par le site.
+
+Notre programme à pour but de prendre en entrée le nom du fichier xml suivit d'un underscore ("\_") et du format de celui-ci (BioSeq, GBCS ou Tiny(fasta)). Ex : séquence\_BioSeq.
+
+Notre application aligne les séquences quelle à récupéré grace a Chrustal W et elle renvoies la plus longue sous sequence commune au differentes séquence prise en entrée.
+\section*{Réalisation}
+\subsection*{Traitement}
+Demande biologique : Retrouver et compter les exons présent dans les differentes séquences, retourner en sortie un fichier XML contenant uniquement les exons et leurs sous séquences associées et un alignement global des séquences de ce gène.\\
+DTD du fichier de sortie :
+ 
+\lstset{frame=single, breaklines=true, basicstyle=\ttfamily}
+%backgroundcolor=\color{grey}}
+\lstloadlanguages{XML}
+\begin{lstlisting}[caption={Fichier de sortie},label=rdf_data,frame=single]
+<output>
+	<gene> </gene>
+	<organisms>
+		<organism>
+			<GE></GE>
+		</organim>		
+	</organisms>
+	<alignment method="clustalW"> </alignment>
+	<exons>
+		<exon>
+			<exon_location>	</exon_location>
+			<exon_sequence>	</exon_sequence>
+		</exon>		
+	</exons>
+</output>
+\end{lstlisting}
+
+\subsection*{UML}
+\begin{center}
+\begin{tikzpicture}
+\begin{umlpackage}{p}
+\begin{umlpackage}{sp1}
+\umlclass[template=T]{A}{
+  n : uint \\ t : float
+}{}
+\umlclass[y=-3]{B}{
+  d : double
+}{
+  \umlvirt{setB(b : B) : void} \\ getB() : B}
+\end{umlpackage}
+\begin{umlpackage}[x=10,y=-6]{sp2}
+\umlinterface{C}{
+  n : uint \\ s : string
+}{}
+\end{umlpackage}
+\umlclass[x=2,y=-10]{D}{
+  n : uint
+  }{}
+\end{umlpackage}
+
+\umlassoc[geometry=-|-, arg1=tata, mult1=*, pos1=0.3, arg2=toto, mult2=1, pos2=2.9, align2=left]{C}{B}
+\umlunicompo[geometry=-|, arg=titi, mult=*, pos=1.7, stereo=vector]{D}{C}
+\umlimport[geometry=|-, anchors=90 and 50, name=import]{sp2}{sp1}
+\umlaggreg[arg=tutu, mult=1, pos=0.8, angle1=30, angle2=60, loopsize=2cm]{D}{D}
+\umlinherit[geometry=-|]{D}{B}
+\umlnote[x=2.5,y=-6, width=3cm]{B}{Je suis une note qui concerne la classe B}
+\umlnote[x=7.5,y=-2]{import-2}{Je suis une note qui concerne la relation d'import}
+\end{tikzpicture}
+\end{center}
+
+\end{document}
