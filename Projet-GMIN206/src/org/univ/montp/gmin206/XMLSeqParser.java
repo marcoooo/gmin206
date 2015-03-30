@@ -23,6 +23,7 @@ import org.univ.montp.gmin206.sequence.TinySeq;
  * Basic TinySeq xml format parser
  *
  * @author mchakiachvil
+ * @author cagret
  */
 public class XMLSeqParser {
     
@@ -48,7 +49,7 @@ public class XMLSeqParser {
         ArrayList<Sequence> listSeq = new ArrayList<Sequence>();
         Sequence seq = null;
         List<Element> list = root.getChildren();
-        if (seqType == EnumSequenceType.BIOSEQ) {
+        if  (seqType == EnumSequenceType.BIOSEQ) { 
             list = root.getChild("Bioseq-set_seq-set").getChildren();
         } 
         for (Element x : list) {
@@ -93,6 +94,17 @@ public class XMLSeqParser {
     }
 
     private static Sequence parseGbcElement(Element x) {
+        //Element y = x.getChild("INSDSeq").getChild("INSDSeq_feature-table");
+      	Element featureTab = x.getChild("INSDSeq_feature-table");
+            List<Element> listDsr = featureTab.getChildren();
+		for (Element z : listDsr) { 
+			if (z.getChildText("INSDFeature_key").equals("exon")) {
+				Element interval = z.getChild("INSDFeature_intervals").getChild("INSDInterval");
+				Element from = interval.getChild("INSDInterval_from");
+				Element to = interval.getChild("INSDInterval_to");
+			}	
+		}
+    		
         Organism org = new Organism(x.getChildTextNormalize("INSDSeq_organism"), -1);
         GBCSeq tSeq = new GBCSeq();
         tSeq.setSeqLength(Integer.parseInt(x.getChildText("INSDSeq_length")));
