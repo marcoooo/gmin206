@@ -48,7 +48,7 @@ public class XMLSeqParser {
         ArrayList<Sequence> listSeq = new ArrayList<Sequence>();
         Sequence seq = null;
         List<Element> list = root.getChildren();
-        if (seqType == EnumSequenceType.TINY) {
+        if (seqType == EnumSequenceType.BIOSEQ) {
             list = root.getChild("Bioseq-set_seq-set").getChildren();
         } 
         for (Element x : list) {
