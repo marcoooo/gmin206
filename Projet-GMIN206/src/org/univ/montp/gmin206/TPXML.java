@@ -20,6 +20,7 @@ import org.univ.montp.gmin206.sequence.EnumSequenceType;
 /**
  * GMIN 206 XML Treatment Main Class
  * @author mchakiachvil
+ * @author cagret
  */
 public class TPXML {
     
