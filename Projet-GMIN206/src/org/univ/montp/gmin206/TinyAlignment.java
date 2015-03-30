@@ -15,6 +15,7 @@ import org.biojava.nbio.core.util.ConcurrencyTools;
 /**
  *
  * @author mchakiachvil
+ * @author cagret
  */
 public class TinyAlignment {
  

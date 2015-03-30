@@ -9,6 +9,7 @@ import org.univ.montp.gmin206.sequence.Organism;
 /**
  * Basic Sequence description
  * @author mchakiachvil
+ * @author cagret
  */
 abstract public class Sequence {
     
