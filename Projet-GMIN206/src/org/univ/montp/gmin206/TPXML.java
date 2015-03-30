@@ -15,6 +15,7 @@ import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.jdom2.JDOMException;
+import org.univ.montp.gmin206.results.OrthologAlign;
 import org.univ.montp.gmin206.sequence.EnumSequenceType;
 
 /**
@@ -47,18 +48,11 @@ public class TPXML {
             EnumSequenceType type = EnumSequenceType.valueOf(mat.group(2).toUpperCase());
             System.out.println("Open file " + theFile.getAbsolutePath() + " fileType : " + mat.group(2).toUpperCase()   ); // renvoie SeqSet
             ArrayList<Sequence> resList = XMLSeqParser.parseFile(theFile, type);
-            String[] rawSeq = new String[resList.size()];
-            int i=0;
-            for (Sequence seq : resList) {
-                System.out.println("current Sequence added to alignment " + seq.getSeqRaw());
-                rawSeq[i] = seq.getSeqRaw(); 
-                i++;
-            }
-            TinyAlignment.multipleSequenceAlignment(rawSeq);
+            OrthologAlign align = new OrthologAlign("Sample RNA");
+            align.setSequences(resList);
+            align.multipleAlign();
             
-        } catch (IOException ex) {
-            Logger.getLogger(TPXML.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (JDOMException ex) {
+        } catch (IOException | JDOMException ex) {
             Logger.getLogger(TPXML.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
