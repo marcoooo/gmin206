@@ -10,6 +10,7 @@ import java.util.List;
 /**
  * Basic Sequence description
  * @author mchakiachvil
+ * @author cagret
  */
 abstract public class Sequence {
     

@@ -5,7 +5,7 @@
 package org.univ.montp.gmin206.sequence;
 
 /**
- *
+ * @author cagret
  * @author mchakiachvil
  */
 public enum EnumSequenceType {

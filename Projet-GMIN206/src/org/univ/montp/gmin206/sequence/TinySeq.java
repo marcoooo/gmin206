@@ -7,7 +7,7 @@ package org.univ.montp.gmin206.sequence;
 /**
  *
  * @author mchakiachvil
- * 
+ * @author cagret
  */
 public class TinySeq extends Sequence {
 
