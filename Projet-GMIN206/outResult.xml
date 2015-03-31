@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <output>
-  <Gene>Gene-Test</Gene>
+  <FileName>sequence_gbc.xml</FileName>
   <Alignement count="111" method="clustalw">Alignement not done</Alignement>
   <Sequences>
     <Sequence accNr="NM_012278" organism="Homo sapiens">

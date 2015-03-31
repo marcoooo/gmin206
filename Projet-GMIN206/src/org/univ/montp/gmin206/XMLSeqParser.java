@@ -59,16 +59,15 @@ public class XMLSeqParser {
                     seq = parseTinyElement(x);
                     break;
                 case BIOSEQ:
-                    throw new UnsupportedOperationException("Not yet implemented");
-                   // seq = parseBioSeqElement(x);
-                   // break;
+                    seq = parseBioSeqElement(x);
+                    break;
                 case GBC:
                     seq = parseGbcElement(x);
                     break;
             }
             listSeq.add(seq);
         }
-        System.out.println("----- Sequences input length: " + listSeq.size());
+        System.out.println("----- Sequences loaded : " + listSeq.size());
         return listSeq;
     } 
     
@@ -91,7 +90,7 @@ public class XMLSeqParser {
         tSeq.setAccessionNumber(x.getChildText("INSDSeq_primary-accession"));
         tSeq.setOrganism(org);
         return tSeq;*/
-    throw new UnsupportedOperationException("Not yet implemented");
+        throw new UnsupportedOperationException("Not yet implemented");
     }
 
     private static Sequence parseGbcElement(Element x) {

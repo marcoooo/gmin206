@@ -5,6 +5,7 @@
  */
 package org.univ.montp.gmin206.results;
 
+import java.io.File;
 import java.io.FileOutputStream;
 import java.util.ArrayList;
 import java.util.List;
@@ -22,17 +23,18 @@ import org.univ.montp.gmin206.sequence.Sequence;
 
 /**
  *
- * @author Marc
+ * @author MChakiachvili
+ * @author CAgret
  */
 public class OrthologAlign {
 
-    String orthologGene;
+    String sourceFile;
     ArrayList<Sequence> sequences;
 
     protected Profile<DNASequence, NucleotideCompound> profile;
 
-    public OrthologAlign(String orthologGene) {
-        this.orthologGene = orthologGene;
+    public OrthologAlign(String source) {
+        this.sourceFile = source;
     }
 
     /**
@@ -65,11 +67,12 @@ public class OrthologAlign {
 
     /**
      *
+     * @return Element
      */
     public Element createResultXML() {
         Element root = new Element("output");
-        Element current = new Element("Gene");
-        current.setText(this.orthologGene);
+        Element current = new Element("FileName");
+        current.setText(this.sourceFile);
         root.addContent(current);
         current = new Element("Alignement");
         current.setAttribute("count", String.valueOf(this.sequences.size()));
@@ -106,8 +109,11 @@ public class OrthologAlign {
         try {
             //On utilise ici un affichage classique avec getPrettyFormat()
             XMLOutputter sortie = new XMLOutputter(Format.getPrettyFormat());
-            sortie.output(new Document(root), new FileOutputStream("outResult.xml"));
+            File out = new File("outResult.xml");
+            sortie.output(new Document(root), new FileOutputStream(out.getAbsolutePath()));
+            System.out.println("Output in " + out.getAbsolutePath());
         } catch (java.io.IOException e) {
+            System.out.println("Exception " + e.getMessage());
         }
     }
 
